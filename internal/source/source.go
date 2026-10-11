@@ -210,6 +210,8 @@ func coordsFor(name string, p params.Map) ([]coord, bool) {
 		return []coord{stable("company_slug", p.Get("company_slug")), stable("company_uid", p.Get("company_uid"))}, true
 	case "recruiterflow":
 		return []coord{stable("company_slug", p.Get("company_slug"))}, true
+	case "phenom":
+		return []coord{stable("host", strings.ToLower(strings.TrimSpace(p.Get("host")))), scoped("countries", p.Get("countries"))}, true
 	case "hibob":
 		return []coord{stable("subdomain", strings.ToLower(strings.TrimSpace(p.Get("subdomain"))))}, true
 	case "htmllinks":
