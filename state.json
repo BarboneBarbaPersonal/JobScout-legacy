@@ -5,7 +5,7 @@
   "matched": false,
   "notified": false,
   "run": {
-   "last_run_at": "2026-10-11T22:08:39.445063293Z",
+   "last_run_at": "2026-10-11T23:10:48.695019118Z",
    "all_fail_runs": 0,
    "all_fail_sent_at": "0001-01-01T00:00:00Z",
    "digest_sent_at": "2026-10-11T19:56:10.523053927Z",
@@ -23,17 +23,19 @@
    "company": "1Password",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 71,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    71,
     71,
     71
    ],
    "nonzero": [
+    71,
     71,
     71
    ],
@@ -58,17 +60,19 @@
    "company": "Close",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 6,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    6,
     6,
     6
    ],
    "nonzero": [
+    6,
     6,
     6
    ],
@@ -93,17 +97,19 @@
    "company": "SigNoz",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 13,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    13,
     13,
     13
    ],
    "nonzero": [
+    13,
     13,
     13
    ],
@@ -128,17 +134,19 @@
    "company": "Buffer",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 1,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    1,
     1,
     1
    ],
    "nonzero": [
+    1,
     1,
     1
    ],
@@ -163,17 +171,19 @@
    "company": "Capchase",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 6,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    6,
     6,
     6
    ],
    "nonzero": [
+    6,
     6,
     6
    ],
@@ -198,17 +208,19 @@
    "company": "Checkly",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 3,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    3,
     3,
     3
    ],
    "nonzero": [
+    3,
     3,
     3
    ],
@@ -233,17 +245,19 @@
    "company": "Checkout.com",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 162,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    162,
     162,
     162
    ],
    "nonzero": [
+    162,
     162,
     162
    ],
@@ -268,17 +282,19 @@
    "company": "Cohere",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 119,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    119,
     119,
     119
    ],
    "nonzero": [
+    119,
     119,
     119
    ],
@@ -303,17 +319,19 @@
    "company": "Confluent",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 17,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    17,
     17,
     17
    ],
    "nonzero": [
+    17,
     17,
     17
    ],
@@ -338,17 +356,19 @@
    "company": "Crisp",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 34,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    34,
     34,
     34
    ],
    "nonzero": [
+    34,
     34,
     34
    ],
@@ -373,17 +393,19 @@
    "company": "Dash0",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 46,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    46,
     46,
     46
    ],
    "nonzero": [
+    46,
     46,
     46
    ],
@@ -408,17 +430,19 @@
    "company": "Docplanner (Doctoralia)",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 42,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    42,
     42,
     42
    ],
    "nonzero": [
+    42,
     42,
     42
    ],
@@ -443,17 +467,19 @@
    "company": "Drata",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 33,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    33,
     33,
     33
    ],
    "nonzero": [
+    33,
     33,
     33
    ],
@@ -478,16 +504,18 @@
    "company": "Skyscanner",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 4,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    4,
     4
    ],
    "nonzero": [
+    4,
     4
    ],
    "typical": 4,
@@ -511,17 +539,19 @@
    "company": "ElevenLabs",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 124,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    124,
     124,
     124
    ],
    "nonzero": [
+    124,
     124,
     124
    ],
@@ -546,17 +576,19 @@
    "company": "Help Scout",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 7,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    7,
     7,
     7
    ],
    "nonzero": [
+    7,
     7,
     7
    ],
@@ -581,17 +613,19 @@
    "company": "Hostinger",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 73,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    73,
     73,
     73
    ],
    "nonzero": [
+    73,
     73,
     73
    ],
@@ -616,17 +650,19 @@
    "company": "incident.io",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 36,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    36,
     36,
     36
    ],
    "nonzero": [
+    36,
     36,
     36
    ],
@@ -651,17 +687,19 @@
    "company": "Mend.io",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 10,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    10,
     10,
     10
    ],
    "nonzero": [
+    10,
     10,
     10
    ],
@@ -686,17 +724,19 @@
    "company": "Miro",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 24,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    24,
     24,
     24
    ],
    "nonzero": [
+    24,
     24,
     24
    ],
@@ -721,17 +761,19 @@
    "company": "Mistral AI",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 213,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    213,
     213,
     213
    ],
    "nonzero": [
+    213,
     213,
     213
    ],
@@ -756,17 +798,19 @@
    "company": "n8n",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 38,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    38,
     38,
     38
    ],
    "nonzero": [
+    38,
     38,
     38
    ],
@@ -791,17 +835,19 @@
    "company": "Nord Security",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 139,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    139,
     139,
     139
    ],
    "nonzero": [
+    139,
     139,
     139
    ],
@@ -826,21 +872,23 @@
    "company": "OpenAI",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 812,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
     815,
+    812,
     812
    ],
    "nonzero": [
     815,
+    812,
     812
    ],
-   "typical": 813,
+   "typical": 812,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -861,17 +909,19 @@
    "company": "Oyster HR",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 23,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    23,
     23,
     23
    ],
    "nonzero": [
+    23,
     23,
     23
    ],
@@ -896,17 +946,19 @@
    "company": "Perk (ex-TravelPerk)",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 129,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    129,
     129,
     129
    ],
    "nonzero": [
+    129,
     129,
     129
    ],
@@ -931,17 +983,19 @@
    "company": "Pleo",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 34,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    34,
     34,
     34
    ],
    "nonzero": [
+    34,
     34,
     34
    ],
@@ -966,17 +1020,19 @@
    "company": "PostHog",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 10,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    10,
     10,
     10
    ],
    "nonzero": [
+    10,
     10,
     10
    ],
@@ -1001,17 +1057,19 @@
    "company": "Preply",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 127,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    127,
     127,
     127
    ],
    "nonzero": [
+    127,
     127,
     127
    ],
@@ -1036,17 +1094,19 @@
    "company": "Semgrep",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 12,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    12,
     12,
     12
    ],
    "nonzero": [
+    12,
     12,
     12
    ],
@@ -1071,17 +1131,19 @@
    "company": "Sentry",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 46,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    46,
     46,
     46
    ],
    "nonzero": [
+    46,
     46,
     46
    ],
@@ -1106,17 +1168,19 @@
    "company": "SEON",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 12,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    12,
     12,
     12
    ],
    "nonzero": [
+    12,
     12,
     12
    ],
@@ -1141,17 +1205,19 @@
    "company": "Snowflake",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 358,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    358,
     358,
     358
    ],
    "nonzero": [
+    358,
     358,
     358
    ],
@@ -1176,16 +1242,18 @@
    "company": "Snyk",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 22,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    22,
     22
    ],
    "nonzero": [
+    22,
     22
    ],
    "typical": 22,
@@ -1209,17 +1277,19 @@
    "company": "Supabase",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 54,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    54,
     54,
     54
    ],
    "nonzero": [
+    54,
     54,
     54
    ],
@@ -1244,17 +1314,19 @@
    "company": "Synthesia",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 46,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    46,
     46,
     46
    ],
    "nonzero": [
+    46,
     46,
     46
    ],
@@ -1279,17 +1351,19 @@
    "company": "Temporal",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 67,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    67,
     67,
     67
    ],
    "nonzero": [
+    67,
     67,
     67
    ],
@@ -1314,16 +1388,18 @@
    "company": "Doist",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 2,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    2,
     2
    ],
    "nonzero": [
+    2,
     2
    ],
    "typical": 2,
@@ -1347,17 +1423,19 @@
    "company": "Vanta",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 83,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    83,
     83,
     83
    ],
    "nonzero": [
+    83,
     83,
     83
    ],
@@ -1382,17 +1460,19 @@
    "company": "Zapier",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 11,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    11,
     11,
     11
    ],
    "nonzero": [
+    11,
     11,
     11
    ],
@@ -1417,17 +1497,19 @@
    "company": "Atlassian",
    "src_type": "atlassian",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 334,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    334,
     334,
     334
    ],
    "nonzero": [
+    334,
     334,
     334
    ],
@@ -1452,16 +1534,18 @@
    "company": "Wallbox",
    "src_type": "bamboohr",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 18,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    18,
     18
    ],
    "nonzero": [
+    18,
     18
    ],
    "typical": 18,
@@ -1485,16 +1569,18 @@
    "company": "Worldsensing",
    "src_type": "bamboohr",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 3,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    3,
     3
    ],
    "nonzero": [
+    3,
     3
    ],
    "typical": 3,
@@ -1518,16 +1604,18 @@
    "company": "groundcover",
    "src_type": "comeet",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 19,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    19,
     19
    ],
    "nonzero": [
+    19,
     19
    ],
    "typical": 19,
@@ -1551,16 +1639,18 @@
    "company": "Deel",
    "src_type": "deel",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 266,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    266,
     266
    ],
    "nonzero": [
+    266,
     266
    ],
    "typical": 266,
@@ -1584,16 +1674,18 @@
    "company": "Dynatrace",
    "src_type": "dynatrace",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 111,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    111,
     111
    ],
    "nonzero": [
+    111,
     111
    ],
    "typical": 111,
@@ -1617,24 +1709,26 @@
    "company": "Microsoft",
    "src_type": "eightfold",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T19:51:13.644573115Z",
-   "last_non_empty": "2026-10-11T19:51:13.644573115Z",
-   "last_non_empty_n": 22,
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty_n": 19,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
-    22
+    22,
+    19
    ],
    "nonzero": [
-    22
+    22,
+    19
    ],
-   "typical": 22,
+   "typical": 20,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
-   "err_runs": 1,
-   "err_since": "2026-10-11T22:08:05.755413941Z",
-   "last_err": "eightfold apply.careers.microsoft.com: no stable snapshot after 3 attempts: eightfold apply.careers.microsoft.com: page at start 0: GET https://apply.careers.microsoft.com/api/pcsx/search?domain=micro…",
+   "err_runs": 0,
+   "err_since": "0001-01-01T00:00:00Z",
+   "last_err": "",
    "kind": "",
    "raised_at": "0001-01-01T00:00:00Z",
    "sent_at": "0001-01-01T00:00:00Z",
@@ -1650,16 +1744,18 @@
    "company": "Factorial",
    "src_type": "factorial",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 136,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    136,
     136
    ],
    "nonzero": [
+    136,
     136
    ],
    "typical": 136,
@@ -1683,17 +1779,19 @@
    "company": "Adyen",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 237,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    237,
     237,
     237
    ],
    "nonzero": [
+    237,
     237,
     237
    ],
@@ -1718,17 +1816,19 @@
    "company": "Airtable",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 4,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    4,
     4,
     4
    ],
    "nonzero": [
+    4,
     4,
     4
    ],
@@ -1753,17 +1853,19 @@
    "company": "Algolia",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 38,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    38,
     38,
     38
    ],
    "nonzero": [
+    38,
     38,
     38
    ],
@@ -1788,17 +1890,19 @@
    "company": "Anthropic",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 645,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    645,
     645,
     645
    ],
    "nonzero": [
+    645,
     645,
     645
    ],
@@ -1823,17 +1927,19 @@
    "company": "Automattic",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 13,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    13,
     13,
     13
    ],
    "nonzero": [
+    13,
     13,
     13
    ],
@@ -1858,17 +1964,19 @@
    "company": "Bitpanda",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 27,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    27,
     27,
     27
    ],
    "nonzero": [
+    27,
     27,
     27
    ],
@@ -1893,17 +2001,19 @@
    "company": "Bitwarden",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 36,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    36,
     36,
     36
    ],
    "nonzero": [
+    36,
     36,
     36
    ],
@@ -1928,17 +2038,19 @@
    "company": "Canonical",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 311,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    311,
     311,
     311
    ],
    "nonzero": [
+    311,
     311,
     311
    ],
@@ -1963,17 +2075,19 @@
    "company": "Celonis",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 226,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    226,
     226,
     226
    ],
    "nonzero": [
+    226,
     226,
     226
    ],
@@ -1998,17 +2112,19 @@
    "company": "CircleCI",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 13,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    13,
     13,
     13
    ],
    "nonzero": [
+    13,
     13,
     13
    ],
@@ -2033,17 +2149,19 @@
    "company": "Cloudflare",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 424,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    424,
     424,
     424
    ],
    "nonzero": [
+    424,
     424,
     424
    ],
@@ -2068,17 +2186,19 @@
    "company": "Contentful",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 19,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    19,
     19,
     19
    ],
    "nonzero": [
+    19,
     19,
     19
    ],
@@ -2103,19 +2223,21 @@
    "company": "Databricks",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty_n": 892,
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty_n": 891,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
     891,
-    892
+    892,
+    891
    ],
    "nonzero": [
     891,
-    892
+    892,
+    891
    ],
    "typical": 891,
    "zero_runs": 0,
@@ -2138,17 +2260,19 @@
    "company": "DataDog",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 435,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    435,
     435,
     435
    ],
    "nonzero": [
+    435,
     435,
     435
    ],
@@ -2173,17 +2297,19 @@
    "company": "Dataiku",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 17,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    17,
     17,
     17
    ],
    "nonzero": [
+    17,
     17,
     17
    ],
@@ -2208,17 +2334,19 @@
    "company": "Remote.com",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 11,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    11,
     11,
     11
    ],
    "nonzero": [
+    11,
     11,
     11
    ],
@@ -2243,17 +2371,19 @@
    "company": "Ebury",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 150,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    150,
     150,
     150
    ],
    "nonzero": [
+    150,
     150,
     150
    ],
@@ -2278,17 +2408,19 @@
    "company": "Elastic",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 409,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    409,
     409,
     409
    ],
    "nonzero": [
+    409,
     409,
     409
    ],
@@ -2313,17 +2445,19 @@
    "company": "Feedzai",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 28,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    28,
     28,
     28
    ],
    "nonzero": [
+    28,
     28,
     28
    ],
@@ -2348,17 +2482,19 @@
    "company": "GitLab",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 221,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    221,
     221,
     221
    ],
    "nonzero": [
+    221,
     221,
     221
    ],
@@ -2383,17 +2519,19 @@
    "company": "Grafana Labs",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 106,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    106,
     106,
     106
    ],
    "nonzero": [
+    106,
     106,
     106
    ],
@@ -2418,17 +2556,19 @@
    "company": "Honeycomb",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 17,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    17,
     17,
     17
    ],
    "nonzero": [
+    17,
     17,
     17
    ],
@@ -2453,17 +2593,19 @@
    "company": "Huntress",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 36,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    36,
     36,
     36
    ],
    "nonzero": [
+    36,
     36,
     36
    ],
@@ -2488,17 +2630,19 @@
    "company": "Intercom",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 106,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    106,
     106,
     106
    ],
    "nonzero": [
+    106,
     106,
     106
    ],
@@ -2523,17 +2667,19 @@
    "company": "JetBrains",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 59,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    59,
     59,
     59
    ],
    "nonzero": [
+    59,
     59,
     59
    ],
@@ -2558,17 +2704,19 @@
    "company": "Kentik",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 5,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    5,
     5,
     5
    ],
    "nonzero": [
+    5,
     5,
     5
    ],
@@ -2593,17 +2741,19 @@
    "company": "Lokalise",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 3,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    3,
     3,
     3
    ],
    "nonzero": [
+    3,
     3,
     3
    ],
@@ -2628,17 +2778,19 @@
    "company": "Mews",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 37,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    37,
     37,
     37
    ],
    "nonzero": [
+    37,
     37,
     37
    ],
@@ -2663,17 +2815,19 @@
    "company": "Mirakl",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 29,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    29,
     29,
     29
    ],
    "nonzero": [
+    29,
     29,
     29
    ],
@@ -2698,17 +2852,19 @@
    "company": "MongoDB",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 391,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    391,
     391,
     391
    ],
    "nonzero": [
+    391,
     391,
     391
    ],
@@ -2733,17 +2889,19 @@
    "company": "N26",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 42,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    42,
     42,
     42
    ],
    "nonzero": [
+    42,
     42,
     42
    ],
@@ -2768,17 +2926,19 @@
    "company": "New Relic",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 53,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    53,
     53,
     53
    ],
    "nonzero": [
+    53,
     53,
     53
    ],
@@ -2803,17 +2963,19 @@
    "company": "Ocado Technology",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 49,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    49,
     49,
     49
    ],
    "nonzero": [
+    49,
     49,
     49
    ],
@@ -2838,17 +3000,19 @@
    "company": "Okta",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 378,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    378,
     378,
     378
    ],
    "nonzero": [
+    378,
     378,
     378
    ],
@@ -2873,17 +3037,19 @@
    "company": "PagerDuty",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 51,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    51,
     51,
     51
    ],
    "nonzero": [
+    51,
     51,
     51
    ],
@@ -2908,17 +3074,19 @@
    "company": "Payhawk",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 44,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    44,
     44,
     44
    ],
    "nonzero": [
+    44,
     44,
     44
    ],
@@ -2943,17 +3111,19 @@
    "company": "SentinelOne",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 269,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    269,
     269,
     269
    ],
    "nonzero": [
+    269,
     269,
     269
    ],
@@ -2978,17 +3148,19 @@
    "company": "Sprout Social",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 26,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    26,
     26,
     26
    ],
    "nonzero": [
+    26,
     26,
     26
    ],
@@ -3013,17 +3185,19 @@
    "company": "Storyblok",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 17,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    17,
     17,
     17
    ],
    "nonzero": [
+    17,
     17,
     17
    ],
@@ -3048,18 +3222,20 @@
    "company": "Stripe",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 727,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
     728,
+    727,
     727
    ],
    "nonzero": [
     728,
+    727,
     727
    ],
    "typical": 727,
@@ -3083,17 +3259,19 @@
    "company": "SumUp",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 347,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    347,
     347,
     347
    ],
    "nonzero": [
+    347,
     347,
     347
    ],
@@ -3118,17 +3296,19 @@
    "company": "Tailscale",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 63,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    63,
     63,
     63
    ],
    "nonzero": [
+    63,
     63,
     63
    ],
@@ -3153,17 +3333,19 @@
    "company": "Tines",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 27,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    27,
     27,
     27
    ],
    "nonzero": [
+    27,
     27,
     27
    ],
@@ -3188,17 +3370,19 @@
    "company": "TrueLayer",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 3,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    3,
     3,
     3
    ],
    "nonzero": [
+    3,
     3,
     3
    ],
@@ -3223,17 +3407,19 @@
    "company": "Twilio",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 144,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    144,
     144,
     144
    ],
    "nonzero": [
+    144,
     144,
     144
    ],
@@ -3258,17 +3444,19 @@
    "company": "Typeform",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 13,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    13,
     13,
     13
    ],
    "nonzero": [
+    13,
     13,
     13
    ],
@@ -3293,17 +3481,19 @@
    "company": "Vercel",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 89,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    89,
     89,
     89
    ],
    "nonzero": [
+    89,
     89,
     89
    ],
@@ -3328,17 +3518,19 @@
    "company": "Veriff",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 11,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    11,
     11,
     11
    ],
    "nonzero": [
+    11,
     11,
     11
    ],
@@ -3363,17 +3555,19 @@
    "company": "Wise",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 20,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    20,
     20,
     20
    ],
    "nonzero": [
+    20,
     20,
     20
    ],
@@ -3398,17 +3592,19 @@
    "company": "Wiz",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 125,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    125,
     125,
     125
    ],
    "nonzero": [
+    125,
     125,
     125
    ],
@@ -3433,17 +3629,19 @@
    "company": "Zscaler",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 378,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    378,
     378,
     378
    ],
    "nonzero": [
+    378,
     378,
     378
    ],
@@ -3468,16 +3666,18 @@
    "company": "Kiteworks",
    "src_type": "hibob",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 22,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    22,
     22
    ],
    "nonzero": [
+    22,
     22
    ],
    "typical": 22,
@@ -3501,16 +3701,18 @@
    "company": "Aiven",
    "src_type": "htmllinks",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 42,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    42,
     42
    ],
    "nonzero": [
+    42,
     42
    ],
    "typical": 42,
@@ -3534,16 +3736,18 @@
    "company": "Coralogix",
    "src_type": "htmllinks",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 60,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    60,
     60
    ],
    "nonzero": [
+    60,
     60
    ],
    "typical": 60,
@@ -3567,16 +3771,18 @@
    "company": "IBM (incl. HashiCorp)",
    "src_type": "ibm",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 2,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    2,
     2
    ],
    "nonzero": [
+    2,
     2
    ],
    "typical": 2,
@@ -3600,17 +3806,19 @@
    "company": "Cloudinary",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 10,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    10,
     10,
     10
    ],
    "nonzero": [
+    10,
     10,
     10
    ],
@@ -3635,17 +3843,19 @@
    "company": "Contentsquare",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 20,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    20,
     20,
     20
    ],
    "nonzero": [
+    20,
     20,
     20
    ],
@@ -3670,17 +3880,19 @@
    "company": "Lodgify",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 11,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    11,
     11,
     11
    ],
    "nonzero": [
+    11,
     11,
     11
    ],
@@ -3705,19 +3917,20 @@
    "company": "Logz.io",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty": "0001-01-01T00:00:00Z",
    "last_non_empty_n": 0,
    "non_empty_days": 0,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    0,
     0,
     0
    ],
    "nonzero": null,
    "typical": 0,
-   "zero_runs": 2,
+   "zero_runs": 3,
    "zero_since": "2026-10-11T19:51:13.644573115Z",
    "err_runs": 0,
    "err_since": "0001-01-01T00:00:00Z",
@@ -3737,17 +3950,19 @@
    "company": "Mitek Systems",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 4,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    4,
     4,
     4
    ],
    "nonzero": [
+    4,
     4,
     4
    ],
@@ -3772,17 +3987,19 @@
    "company": "Pipedrive",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 8,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    8,
     8,
     8
    ],
    "nonzero": [
+    8,
     8,
     8
    ],
@@ -3807,17 +4024,19 @@
    "company": "Qonto",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 49,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    49,
     49,
     49
    ],
    "nonzero": [
+    49,
     49,
     49
    ],
@@ -3842,17 +4061,19 @@
    "company": "Sonatype",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 19,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    19,
     19,
     19
    ],
    "nonzero": [
+    19,
     19,
     19
    ],
@@ -3877,17 +4098,19 @@
    "company": "Superside",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 15,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    15,
     15,
     15
    ],
    "nonzero": [
+    15,
     15,
     15
    ],
@@ -3912,16 +4135,18 @@
    "company": "Checkmk",
    "src_type": "personio",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 11,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    11,
     11
    ],
    "nonzero": [
+    11,
     11
    ],
    "typical": 11,
@@ -3945,16 +4170,18 @@
    "company": "Hornetsecurity",
    "src_type": "personio",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 96,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    96,
     96
    ],
    "nonzero": [
+    96,
     96
    ],
    "typical": 96,
@@ -3978,16 +4205,18 @@
    "company": "Allianz Technology",
    "src_type": "phenom",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 178,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    178,
     178
    ],
    "nonzero": [
+    178,
     178
    ],
    "typical": 178,
@@ -4011,17 +4240,19 @@
    "company": "Holded (Visma)",
    "src_type": "recruitee",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 12,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    12,
     12,
     12
    ],
    "nonzero": [
+    12,
     12,
     12
    ],
@@ -4046,17 +4277,19 @@
    "company": "Personio",
    "src_type": "recruitee",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 1,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    1,
     1,
     1
    ],
    "nonzero": [
+    1,
     1,
     1
    ],
@@ -4081,17 +4314,19 @@
    "company": "SeQura",
    "src_type": "recruitee",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 13,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    13,
     13,
     13
    ],
    "nonzero": [
+    13,
     13,
     13
    ],
@@ -4116,16 +4351,18 @@
    "company": "Marfeel",
    "src_type": "recruiterflow",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 7,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    7,
     7
    ],
    "nonzero": [
+    7,
     7
    ],
    "typical": 7,
@@ -4160,7 +4397,7 @@
    "typical": 0,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
-   "err_runs": 1,
+   "err_runs": 2,
    "err_since": "2026-10-11T22:08:05.755413941Z",
    "last_err": "GET https://www.revolut.com/careers/: 403 Forbidden",
    "kind": "",
@@ -4178,17 +4415,19 @@
    "company": "Rippling",
    "src_type": "rippling",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 346,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    346,
     346,
     346
    ],
    "nonzero": [
+    346,
     346,
     346
    ],
@@ -4213,16 +4452,18 @@
    "company": "Glovo (Delivery Hero)",
    "src_type": "smartrecruiters",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 947,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    947,
     947
    ],
    "nonzero": [
+    947,
     947
    ],
    "typical": 947,
@@ -4246,17 +4487,19 @@
    "company": "Freshworks",
    "src_type": "smartrecruiters",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 126,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    126,
     126,
     126
    ],
    "nonzero": [
+    126,
     126,
     126
    ],
@@ -4281,16 +4524,18 @@
    "company": "Red Points",
    "src_type": "smartrecruiters",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 7,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    7,
     7
    ],
    "nonzero": [
+    7,
     7
    ],
    "typical": 7,
@@ -4314,17 +4559,19 @@
    "company": "ServiceNow",
    "src_type": "smartrecruiters",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 696,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    696,
     696,
     696
    ],
    "nonzero": [
+    696,
     696,
     696
    ],
@@ -4349,16 +4596,18 @@
    "company": "Signaturit (Namirial)",
    "src_type": "successfactors",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 5,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    5,
     5
    ],
    "nonzero": [
+    5,
     5
    ],
    "typical": 5,
@@ -4382,19 +4631,20 @@
    "company": "SAP",
    "src_type": "successfactors",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty": "0001-01-01T00:00:00Z",
    "last_non_empty_n": 0,
    "non_empty_days": 0,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    0,
     0,
     0
    ],
    "nonzero": null,
    "typical": 0,
-   "zero_runs": 2,
+   "zero_runs": 3,
    "zero_since": "2026-10-11T19:51:13.644573115Z",
    "err_runs": 0,
    "err_since": "0001-01-01T00:00:00Z",
@@ -4414,17 +4664,19 @@
    "company": "ManoMano",
    "src_type": "teamtailor",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 6,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    6,
     6,
     6
    ],
    "nonzero": [
+    6,
     6,
     6
    ],
@@ -4449,17 +4701,19 @@
    "company": "Outpost24 (ex-Blueliv)",
    "src_type": "teamtailor",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 10,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    10,
     10,
     10
    ],
    "nonzero": [
+    10,
     10,
     10
    ],
@@ -4484,17 +4738,19 @@
    "company": "Paack",
    "src_type": "teamtailor",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 13,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    13,
     13,
     13
    ],
    "nonzero": [
+    13,
     13,
     13
    ],
@@ -4519,17 +4775,19 @@
    "company": "Sumsub",
    "src_type": "teamtailor",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 39,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    39,
     39,
     39
    ],
    "nonzero": [
+    39,
     39,
     39
    ],
@@ -4554,17 +4812,19 @@
    "company": "Mangopay",
    "src_type": "teamtailor",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 6,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    6,
     6,
     6
    ],
    "nonzero": [
+    6,
     6,
     6
    ],
@@ -4589,16 +4849,18 @@
    "company": "Unnax (Powens)",
    "src_type": "teamtailor",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 3,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    3,
     3
    ],
    "nonzero": [
+    3,
     3
    ],
    "typical": 3,
@@ -4622,18 +4884,19 @@
    "company": "Adevinta",
    "src_type": "workable",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty": "0001-01-01T00:00:00Z",
    "last_non_empty_n": 0,
    "non_empty_days": 0,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    0,
     0
    ],
    "nonzero": null,
    "typical": 0,
-   "zero_runs": 1,
+   "zero_runs": 2,
    "zero_since": "2026-10-11T22:08:05.755413941Z",
    "err_runs": 0,
    "err_since": "0001-01-01T00:00:00Z",
@@ -4653,17 +4916,19 @@
    "company": "Exoticca",
    "src_type": "workable",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 37,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    37,
     37,
     37
    ],
    "nonzero": [
+    37,
     37,
     37
    ],
@@ -4688,17 +4953,19 @@
    "company": "Hugging Face",
    "src_type": "workable",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 6,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    6,
     6,
     6
    ],
    "nonzero": [
+    6,
     6,
     6
    ],
@@ -4723,17 +4990,19 @@
    "company": "Kantox",
    "src_type": "workable",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 5,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    5,
     5,
     5
    ],
    "nonzero": [
+    5,
     5,
     5
    ],
@@ -4758,17 +5027,19 @@
    "company": "Ukio",
    "src_type": "workable",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 8,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    8,
     8,
     8
    ],
    "nonzero": [
+    8,
     8,
     8
    ],
@@ -4793,17 +5064,19 @@
    "company": "Arctic Wolf",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 124,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    124,
     124,
     124
    ],
    "nonzero": [
+    124,
     124,
     124
    ],
@@ -4828,19 +5101,21 @@
    "company": "Cisco",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty_n": 1371,
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty_n": 1372,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
     1371,
-    1371
+    1371,
+    1372
    ],
    "nonzero": [
     1371,
-    1371
+    1371,
+    1372
    ],
    "typical": 1371,
    "zero_runs": 0,
@@ -4863,17 +5138,19 @@
    "company": "Criteo",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 71,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    71,
     71,
     71
    ],
    "nonzero": [
+    71,
     71,
     71
    ],
@@ -4898,18 +5175,20 @@
    "company": "CrowdStrike",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 340,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
     341,
+    340,
     340
    ],
    "nonzero": [
     341,
+    340,
     340
    ],
    "typical": 340,
@@ -4933,17 +5212,19 @@
    "company": "Darktrace",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 74,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    74,
     74,
     74
    ],
    "nonzero": [
+    74,
     74,
     74
    ],
@@ -4968,17 +5249,19 @@
    "company": "HP",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 883,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    883,
     883,
     883
    ],
    "nonzero": [
+    883,
     883,
     883
    ],
@@ -5003,16 +5286,18 @@
    "company": "Palo Alto Networks",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 1478,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    1478,
     1478
    ],
    "nonzero": [
+    1478,
     1478
    ],
    "typical": 1478,
@@ -5036,16 +5321,18 @@
    "company": "Postman",
    "src_type": "workday",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 29,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    29,
     29
    ],
    "nonzero": [
+    29,
     29
    ],
    "typical": 29,
@@ -5069,17 +5356,19 @@
    "company": "Proofpoint",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 115,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    115,
     115,
     115
    ],
    "nonzero": [
+    115,
     115,
     115
    ],
@@ -5104,21 +5393,23 @@
    "company": "Salesforce",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 1534,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
     1533,
+    1534,
     1534
    ],
    "nonzero": [
     1533,
+    1534,
     1534
    ],
-   "typical": 1533,
+   "typical": 1534,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -5139,16 +5430,18 @@
    "company": "Semrush",
    "src_type": "workday",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 23,
    "non_empty_days": 1,
-   "fetches": 1,
+   "fetches": 2,
    "baselined": false,
    "recent": [
+    23,
     23
    ],
    "nonzero": [
+    23,
     23
    ],
    "typical": 23,
@@ -5172,17 +5465,19 @@
    "company": "UserTesting (ex-UserZoom)",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 12,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    12,
     12,
     12
    ],
    "nonzero": [
+    12,
     12,
     12
    ],
@@ -5207,19 +5502,21 @@
    "company": "Workday",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty_n": 374,
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty_n": 373,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
     374,
-    374
+    374,
+    373
    ],
    "nonzero": [
     374,
-    374
+    374,
+    373
    ],
    "typical": 374,
    "zero_runs": 0,
@@ -5242,17 +5539,19 @@
    "company": "Zendesk",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-11T22:08:05.755413941Z",
-   "last_non_empty": "2026-10-11T22:08:05.755413941Z",
+   "last_ok": "2026-10-11T23:10:48.606731612Z",
+   "last_non_empty": "2026-10-11T23:10:48.606731612Z",
    "last_non_empty_n": 136,
    "non_empty_days": 1,
-   "fetches": 2,
+   "fetches": 3,
    "baselined": false,
    "recent": [
+    136,
     136,
     136
    ],
    "nonzero": [
+    136,
     136,
     136
    ],
@@ -98041,6 +98340,12 @@
  "workday/cisco/Cisco_Careers/job/Feltham-United-Kingdom/Solutions-Engineer_2025405": {
   "first_seen": "2026-10-11T19:54:46.716309542Z",
   "title": "Cisco: Solutions Engineer",
+  "matched": false,
+  "notified": false
+ },
+ "workday/cisco/Cisco_Careers/job/Feltham-United-Kingdom/Technical-Systems-Engineer_2024227": {
+  "first_seen": "2026-10-11T23:10:48.611892361Z",
+  "title": "Cisco: Technical Systems Engineer",
   "matched": false,
   "notified": false
  },
