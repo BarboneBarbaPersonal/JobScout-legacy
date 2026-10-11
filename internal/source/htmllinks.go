@@ -50,12 +50,18 @@ func init() {
 		if err != nil {
 			return nil, fmt.Errorf("param \"link\": %w", err)
 		}
-		return &htmlLinks{company: company, url: pageURL, link: link, location: p.Get("location"), client: client}, nil
+		textLocation, err := p.Bool("text_location", false)
+		if err != nil {
+			return nil, err
+		}
+		return &htmlLinks{company: company, url: pageURL, link: link, location: p.Get("location"),
+			textLocation: textLocation, client: client}, nil
 	})
 }
 
 type htmlLinks struct {
 	company, url, location string
+	textLocation           bool // link text = title line, then location line(s)
 	link                   *regexp.Regexp
 	client                 *http.Client
 }
@@ -98,8 +104,16 @@ func (s *htmlLinks) Fetch(ctx context.Context) ([]model.Job, error) {
 				title = fromSlug(match[i])
 			}
 		}
-		// Link text can include extra lines (team, city): keep the first one.
-		title = strings.TrimSpace(strings.SplitN(title, "\n", 2)[0])
+		// Link text can include extra lines (team, city): the first line is the
+		// title; with text_location the remaining lines are the location.
+		lines := nonEmpty(strings.Split(title, "\n")...)
+		title = ""
+		if len(lines) > 0 {
+			title = lines[0]
+			if s.textLocation && len(lines) > 1 {
+				location = strings.Join(nonEmpty(append(lines[1:], s.location)...), "; ")
+			}
+		}
 		if title == "" {
 			continue
 		}

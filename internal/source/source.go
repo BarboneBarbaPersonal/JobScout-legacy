@@ -262,7 +262,7 @@ func coordsFor(name string, p params.Map) ([]coord, bool) {
 	case "atlassian", "deshaw", "medianet", "enphase", "richpanel", "makemytrip",
 		"highergs", "hyperverge", "juspay", "komprise", "nutanix", "ofbusiness",
 		"publicissapient", "slb", "fastenal", "siemensjobs", "nykaa", "airoha",
-		"payu", "forty2gears", "dynatrace", "revolut":
+		"payu", "forty2gears", "dynatrace", "revolut", "deel":
 		// One hand-written adapter per employer: the source name is the whole
 		// coordinate system.
 		return nil, true

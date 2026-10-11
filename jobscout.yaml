@@ -323,3 +323,7 @@ companies:
   - {name: "Kiteworks", source: hibob, params: {subdomain: "kiteworks"}}
   - {name: "Allianz Technology", source: phenom, params: {host: "careers.allianz.com", path: "global/en", lang: "en_global", site_country: "global", countries: "Spain"}}
   - {name: "IBM (incl. HashiCorp)", source: ibm, params: {appid: "careers", scope: "careers2", rc: "es"}}
+  - {name: "Deel", source: deel}
+  - {name: "Aiven", source: htmllinks, params: {url: "https://aiven.io/careers/job", link: '/careers/job/[0-9]+', text_location: "true"}}
+  - {name: "Signaturit (Namirial)", source: successfactors, params: {host: "careers.namirial.com"}}
+  - {name: "Doist", source: ashby, params: {board_name: "todoist-inc"}}
