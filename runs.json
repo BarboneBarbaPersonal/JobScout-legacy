@@ -305,5 +305,14 @@
   "scanned": 21181,
   "new_postings": 2018,
   "new_matches": 17
+ },
+ {
+  "time": "2026-10-11T23:10:49.581519+00:00",
+  "status": "degraded",
+  "boards": 152,
+  "boards_ok": 151,
+  "scanned": 21199,
+  "new_postings": 1,
+  "new_matches": 0
  }
 ]
