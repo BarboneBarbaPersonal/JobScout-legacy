@@ -203,6 +203,17 @@ func coordsFor(name string, p params.Map) ([]coord, bool) {
 		return []coord{stable("company_slug", p.Get("company_slug"))}, true
 	case "teamtailor":
 		return []coord{stable("host", strings.ToLower(strings.TrimSpace(p.Get("host"))))}, true
+	// JobScout sources.
+	case "personio", "factorial":
+		return []coord{stable("host", strings.ToLower(strings.TrimSpace(p.Get("host"))))}, true
+	case "comeet":
+		return []coord{stable("company_slug", p.Get("company_slug")), stable("company_uid", p.Get("company_uid"))}, true
+	case "recruiterflow":
+		return []coord{stable("company_slug", p.Get("company_slug"))}, true
+	case "hibob":
+		return []coord{stable("subdomain", strings.ToLower(strings.TrimSpace(p.Get("subdomain"))))}, true
+	case "htmllinks":
+		return []coord{stable("url", p.Get("url"))}, true
 	case "rippling":
 		return []coord{stable("board_slug", p.Get("board_slug"))}, true
 	case "polymer":
@@ -249,7 +260,7 @@ func coordsFor(name string, p params.Map) ([]coord, bool) {
 	case "atlassian", "deshaw", "medianet", "enphase", "richpanel", "makemytrip",
 		"highergs", "hyperverge", "juspay", "komprise", "nutanix", "ofbusiness",
 		"publicissapient", "slb", "fastenal", "siemensjobs", "nykaa", "airoha",
-		"payu", "forty2gears":
+		"payu", "forty2gears", "dynatrace", "revolut":
 		// One hand-written adapter per employer: the source name is the whole
 		// coordinate system.
 		return nil, true

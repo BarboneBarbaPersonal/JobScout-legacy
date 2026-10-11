@@ -284,9 +284,10 @@ func TestAtlassianDuplicateReconciliation(t *testing.T) {
 		first := atlassianFixturePosting(1, "One")
 		second := atlassianFixturePosting(1, "One")
 		second["category"] = "Different unused category"
-		_, err := fetchAtlassianFixture(t, []map[string]any{first, second}, 10)
-		if err == nil || !strings.Contains(err.Error(), "conflicting duplicate posting id 1") {
-			t.Fatalf("error = %v", err)
+		// JobScout: a conflicting duplicate keeps the first copy instead of failing.
+		jobs, err := fetchAtlassianFixture(t, []map[string]any{first, second}, 10)
+		if err != nil || len(jobs) != 1 || jobs[0].ID != "atlassian/1" {
+			t.Fatalf("jobs = %+v, error = %v", jobs, err)
 		}
 	})
 

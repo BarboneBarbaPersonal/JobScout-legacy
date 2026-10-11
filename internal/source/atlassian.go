@@ -10,7 +10,6 @@ import (
 	"context"
 	"fmt"
 	"net/http"
-	"reflect"
 	"strconv"
 	"strings"
 
@@ -115,10 +114,10 @@ func (s *atlassian) Fetch(ctx context.Context) ([]model.Job, error) {
 			URL:         strings.TrimRight(s.detailBase, "/") + "/" + id,
 			Description: description,
 		}
-		if previous, duplicate := seen[posting.ID]; duplicate {
-			if !reflect.DeepEqual(previous, posting) {
-				return nil, fmt.Errorf("atlassian conflicting duplicate posting id %d", posting.ID)
-			}
+		// JobScout: Atlassian's feed sometimes lists the same posting twice with
+		// slightly different fields. Failing the whole board on that lost every
+		// Atlassian (and Loom) job, so keep the first copy and move on.
+		if _, duplicate := seen[posting.ID]; duplicate {
 			continue
 		}
 		seen[posting.ID] = posting
