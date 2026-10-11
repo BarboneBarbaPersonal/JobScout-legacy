@@ -296,5 +296,14 @@
   "new_postings": 0,
   "new_matches": 30,
   "rebuild": true
+ },
+ {
+  "time": "2026-10-11T22:08:40.370179+00:00",
+  "status": "degraded",
+  "boards": 152,
+  "boards_ok": 150,
+  "scanned": 21181,
+  "new_postings": 2018,
+  "new_matches": 17
  }
 ]
