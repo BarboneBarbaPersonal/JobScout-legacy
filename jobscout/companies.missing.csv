@@ -1,53 +1,17 @@
-Company,Reason,Detail
-Dynatrace,missing,
-Chronosphere,missing,
-Coralogix,missing,
-Better Stack,missing,
-groundcover,missing,
-Splunk (Cisco),missing,
-Checkmk,missing,
-Pandora FMS,missing,
-Catchpoint,missing,
-Outpost24 (ex-Blueliv),missing,
-Red Points,missing,
-SentinelOne,missing,
-Wiz,missing,
-Snyk,missing,
-Okta,missing,
-Hornetsecurity,missing,
-Devo,missing,
-Sumsub,missing,
-Kiteworks,missing,
-Revolut,missing,
-Unnax,missing,
-Mangopay,unsupported,teamtailor:mangopay
-Deel,missing,
-Factorial,missing,
-Semrush,missing,
-Signaturit,missing,
-Marfeel,missing,
-Mews,missing,
-Worldsensing,missing,
-Wallbox,missing,
-Adevinta,missing,
-ManoMano,missing,
-Ukio,missing,
-Paack,missing,
-Criteo,missing,
-Skyscanner,missing,
-Glovo,missing,
-Sesame HR,missing,
-Cobee (Pluxee),missing,
-Genially,missing,
-HashiCorp (IBM),missing,
-Aiven,missing,
-Automattic,missing,
-Doist,missing,
-Toggl,missing,
-Loom (Atlassian),missing,
-Allianz Technology,missing,
-Microsoft,missing,
-SAP,missing,
-Postman,missing,old greenhouse board 404 (2026-09-30)
-Clarity AI,missing,greenhouse board 404 (2026-10-08)
-HubSpot,missing,greenhouse board 404 (2026-10-08)
+Company,Status,Detail (checked 2026-10-11)
+Revolut,blocked on GitHub,Reader works from a home PC; from GitHub's servers Revolut answers with a bot 'security check' page
+Sesame HR,not solved,Own ATS (app.sesametime.com); vacancies load through a background worker whose API address was not found yet
+HubSpot,no listing,hubspot.com/careers/jobs currently says 'No jobs are currently listed'; old Greenhouse board 404
+Toggl,no openings,toggl.com/jobs 'Our current openings' section is empty (Toggl Hire)
+Clarity AI,board offline,job-boards.eu.greenhouse.io/clarityai shows 'something went wrong'
+Catchpoint,board deleted,Greenhouse 'catchpoint' board returns 404
+Devo,board deleted,Jobvite 'devo' account reported invalid
+Better Stack,no job list,Only two general Typeform application forms
+Genially,no job list,Posts jobs on LinkedIn only
+Pandora FMS,no job list,'Join our team' page without listings
+Cobee (Pluxee),board deleted,cobee.teamtailor.com returns 404
+Postman,covered,Workday postman.wd108 (old Greenhouse board 404)
+Chronosphere,covered via Palo Alto Networks,Acquired; jobs on jobs.paloaltonetworks.com (Workday)
+Splunk (Cisco),covered via Cisco,Cisco Workday board
+Loom (Atlassian),covered via Atlassian,Atlassian board
+HashiCorp (IBM),covered via IBM Spain,IBM search rc=es
