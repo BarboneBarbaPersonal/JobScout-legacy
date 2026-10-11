@@ -118,7 +118,10 @@ matcher:
                   lisbon, porto, warsaw, krakow, prague, stockholm, copenhagen, oslo, helsinki,
                   zurich, geneva, milan, rome, brussels, budapest, bucharest, sofia, athens,
                   tel aviv, sydney, melbourne, tokyo, bangalore, bengaluru, hyderabad, pune,
-                  vancouver, montreal, mexico city, sao paulo, são paulo, buenos aires
+                  vancouver, montreal, mexico city, sao paulo, são paulo, buenos aires,
+                  armenia, yerevan, georgia, tbilisi, kazakhstan, almaty, uzbekistan, kyrgyzstan,
+                  azerbaijan, moldova, bosnia, montenegro, north macedonia, albania, cyprus,
+                  uganda, kampala, ghana, morocco, tunisia, pakistan, bangladesh, sri lanka
             - name: keywords
               params:
                 field: title
@@ -145,7 +148,10 @@ matcher:
                   lisbon, porto, warsaw, krakow, prague, stockholm, copenhagen, oslo, helsinki,
                   zurich, geneva, milan, rome, brussels, budapest, bucharest, sofia, athens,
                   tel aviv, sydney, melbourne, tokyo, bangalore, bengaluru, hyderabad, pune,
-                  vancouver, montreal, mexico city, sao paulo, são paulo, buenos aires
+                  vancouver, montreal, mexico city, sao paulo, são paulo, buenos aires,
+                  armenia, yerevan, georgia, tbilisi, kazakhstan, almaty, uzbekistan, kyrgyzstan,
+                  azerbaijan, moldova, bosnia, montenegro, north macedonia, albania, cyprus,
+                  uganda, kampala, ghana, morocco, tunisia, pakistan, bangladesh, sri lanka
 
 notifiers:
   - name: console
