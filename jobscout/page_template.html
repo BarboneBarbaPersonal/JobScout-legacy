@@ -168,7 +168,7 @@
       ["New postings", num(stats.new_postings_24h), num(stats.new_postings_last) + " in last scan · all titles, 24 h"],
       ["Matches on board", num(stats.total), num(stats.new_matches_24h) + " new in last 24 h"],
       ["Barcelona", num(stats.barcelona), "Remote " + num(stats.remote) + " · Spain " + num(stats.spain)],
-      ["Core roles", num(stats.core), "Adjacent " + num(stats.total - stats.core)]
+      ["Core roles", num(stats.core), "Account Mgr " + num(stats.account) + " · Adjacent " + num(stats.total - stats.core - (stats.account || 0))]
     ];
     var box = document.getElementById("stats");
     items.forEach(function (item) {
@@ -237,6 +237,12 @@
       var index = hidden.indexOf(job.id);
       if (index === -1) { hidden.push(job.id); } else { hidden.splice(index, 1); }
       saveHidden();
+      if (!PRIV.cv) {
+        // Not connected: the hide lives only in this browser and can be wiped. Say so.
+        togglePrivateBox(true);
+        document.getElementById("private-status").textContent =
+          "Hidden on this browser only. Connect CV insights to keep hidden jobs on all devices.";
+      }
       renderBoard();
     });
     bottom.appendChild(button);
@@ -530,7 +536,7 @@
 
   renderStats();
   renderChips("place-filter", "place", [["All", "All"], ["Barcelona", "Barcelona"], ["Remote", "Remote"], ["Spain", "Spain"]]);
-  renderChips("role-filter", "role", [["All", "All"], ["core", "Core"], ["adjacent", "Adjacent"]]);
+  renderChips("role-filter", "role", [["All", "All"], ["core", "Core"], ["account", "Account Manager"], ["adjacent", "Adjacent"]]);
   document.getElementById("show-hidden").addEventListener("change", function (e) {
     showHidden = e.target.checked;
     renderBoard();

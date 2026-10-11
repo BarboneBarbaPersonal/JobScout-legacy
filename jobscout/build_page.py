@@ -30,7 +30,8 @@ LOCATION_TIERS = [
     (2, "Remote", ["remote", "distributed", "worldwide", "anywhere", "home based"]),
     (1, "Spain", ["spain", "españa", "espana", "madrid"]),
 ]
-# Core target roles score higher; everything else the title rule lets in is "adjacent".
+# Role types: core target roles score higher; account roles get their own filter;
+# everything else the title rule lets in is "adjacent".
 CORE_ROLES = ["technical account manager", "tam", "customer success manager", "csm",
               "customer success engineer", "cse", "forward deployed", "fde",
               "service delivery manager", "sdm", "csam", "customer success architect"]
@@ -51,8 +52,21 @@ def location_tier(location):
     return 0, "Other"
 
 
+ACCOUNT_ROLES = ["account manager", "client partner", "client success", "renewals manager",
+                 "partner success"]
+
+
 def is_core(title):
     return any(has_word(title, role) for role in CORE_ROLES)
+
+
+def role_type(title):
+    """core / account / adjacent. "Technical Account Manager" counts as core."""
+    if is_core(title):
+        return "core"
+    if any(has_word(title, role) for role in ACCOUNT_ROLES):
+        return "account"
+    return "adjacent"
 
 
 def fit_score(job):
@@ -118,7 +132,8 @@ def build_stats(jobs, runs, now):
         "barcelona": places.count("Barcelona"),
         "remote": places.count("Remote"),
         "spain": places.count("Spain"),
-        "core": sum(1 for job in jobs if is_core(job["title"])),
+        "core": sum(1 for job in jobs if role_type(job["title"]) == "core"),
+        "account": sum(1 for job in jobs if role_type(job["title"]) == "account"),
     }
 
 
@@ -154,6 +169,8 @@ def main():
     if record and rebuild:
         # A full rescan sees every open job as "new"; that is not a real count.
         record["new_postings"] = 0
+        # Marks a full refresh; the workflow uses it to schedule the weekly one.
+        record["rebuild"] = True
     if record:
         runs = (runs + [record])[-KEEP_RUNS:]
 
@@ -163,7 +180,7 @@ def main():
         # Descriptions stay in matches.json (for the CV analysis) but not in the page itself.
         page_job = {key: value for key, value in job.items() if key != "description"}
         page_jobs.append({**page_job, "place": location_tier(job["location"])[1],
-                          "role": "core" if is_core(job["title"]) else "adjacent",
+                          "role": role_type(job["title"]),
                           "fit": fit_score(job)})
     data = {"jobs": page_jobs, "stats": build_stats(kept, runs, now),
             "new_for_hours": NEW_FOR_HOURS, "max_age_days": MAX_AGE_DAYS}

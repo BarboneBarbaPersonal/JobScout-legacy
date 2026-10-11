@@ -45,6 +45,33 @@ jobs:
         with:
           go-version-file: go.mod
 
+      # JobScout weekly full refresh. GitHub skips many scheduled runs, so instead
+      # of a fixed weekday, every run checks when the last full refresh happened
+      # (runs.json on the published board marks them with "rebuild": true).
+      # After 7 days this run becomes a full rescan: the saved state is dropped,
+      # every open job is checked again and the board is rebuilt, which also
+      # removes jobs that have closed.
+      - name: Weekly full refresh check
+        id: weekly
+        run: |
+          python3 - <<'EOF' >> "$GITHUB_OUTPUT"
+          import json, urllib.request
+          from datetime import datetime, timezone
+          try:
+              url = "https://barbonebarbapersonal.github.io/JobScout/runs.json"
+              runs = json.load(urllib.request.urlopen(url, timeout=30))
+              last = max((r["time"] for r in runs if r.get("rebuild")), default=None)
+          except Exception:
+              last = "unknown"  # board unreachable: do not force a refresh
+          due = last is None or (last != "unknown" and
+                                 (datetime.now(timezone.utc) - datetime.fromisoformat(last)).days >= 7)
+          print("full=" + ("true" if due else "false"))
+          print("last full refresh:", last, "-> due:", due, file=__import__("sys").stderr)
+          EOF
+          if grep -q '^full=true' "$GITHUB_OUTPUT"; then
+            git push origin --delete state || true
+          fi
+
       - name: Restore state from the state branch
         id: restore
         run: |
@@ -52,7 +79,7 @@ jobs:
             --remote origin \
             --branch state \
             --state state.json \
-            --allow-bootstrap="${{ github.event_name == 'workflow_dispatch' && inputs.initialize_state }}" \
+            --allow-bootstrap="${{ (github.event_name == 'workflow_dispatch' && inputs.initialize_state) || steps.weekly.outputs.full == 'true' }}" \
             --github-output "$GITHUB_OUTPUT"
 
       - name: Build
