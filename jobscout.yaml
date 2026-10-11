@@ -22,7 +22,7 @@ prefilter:
     field: title
     include: >-
       customer success, technical account manager, tam, csm, cse,
-      customer success engineer, customer success architect, technical customer success, csam,
+      customer success engineer, customer success architect, technical customer success, technical success, csam,
       forward deployed engineer, forward deployed, fde,
       service delivery manager, service delivery, sdm,
       customer engineer, implementation manager, implementation consultant,
@@ -59,7 +59,7 @@ matcher:
         field: title
         include: >-
           customer success, technical account manager, tam, csm, cse,
-          customer success engineer, customer success architect, technical customer success, csam,
+          customer success engineer, customer success architect, technical customer success, technical success, csam,
           forward deployed engineer, forward deployed, fde,
           service delivery manager, service delivery, sdm,
           customer engineer, implementation manager, implementation consultant,
@@ -293,3 +293,12 @@ companies:
   - {name: "ManoMano", source: teamtailor, params: {host: "careers.manomano.jobs"}}
   - {name: "Paack", source: teamtailor, params: {host: "careers.paack.co"}}
   - {name: "Outpost24 (ex-Blueliv)", source: teamtailor, params: {host: "careers.outpost24.com"}}
+  # ---- Added 2026-10-11 (found by browsing careers pages / probing platforms) ----
+  - {name: "Red Points", source: smartrecruiters, params: {company_id: "RedPoints1"}}
+  - {name: "Glovo (Delivery Hero)", source: smartrecruiters, params: {company_id: "DeliveryHero", max_postings: 2000}}
+  - {name: "Semrush", source: workday, params: {host: "semrush.wd5.myworkdayjobs.com", tenant: "semrush", site: "semrushcareers"}}
+  - {name: "Skyscanner", source: ashby, params: {board_name: "eb485598-6bf3-40a5-8560-d70150131305"}}
+  - {name: "Wallbox", source: bamboohr, params: {company_slug: "wallbox"}}
+  - {name: "Worldsensing", source: bamboohr, params: {company_slug: "worldsensing"}}
+  - {name: "Unnax (Powens)", source: teamtailor, params: {host: "powens.teamtailor.com"}}
+  - {name: "Snyk", source: ashby, params: {board_name: "snyk"}}
