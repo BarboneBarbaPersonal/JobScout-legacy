@@ -5,12 +5,12 @@
   "matched": false,
   "notified": false,
   "run": {
-   "last_run_at": "2026-10-13T17:08:42.006232166Z",
+   "last_run_at": "2026-10-13T21:50:28.940990166Z",
    "all_fail_runs": 0,
    "all_fail_sent_at": "0001-01-01T00:00:00Z",
    "digest_sent_at": "2026-10-11T19:56:10.523053927Z",
-   "evaluated_since_digest": 223,
-   "matched_since_digest": 28,
+   "evaluated_since_digest": 230,
+   "matched_since_digest": 29,
    "deferred_since_digest": 0
   }
  },
@@ -23,11 +23,11 @@
    "company": "1Password",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 74,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 73,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     71,
@@ -38,7 +38,8 @@
     74,
     74,
     74,
-    74
+    74,
+    73
    ],
    "nonzero": [
     71,
@@ -49,9 +50,10 @@
     74,
     74,
     74,
-    74
+    74,
+    73
    ],
-   "typical": 71,
+   "typical": 72,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -72,13 +74,14 @@
    "company": "Close",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 6,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    6,
     6,
     6,
     6,
@@ -90,6 +93,7 @@
     6
    ],
    "nonzero": [
+    6,
     6,
     6,
     6,
@@ -121,11 +125,11 @@
    "company": "SigNoz",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 14,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     13,
@@ -136,6 +140,7 @@
     13,
     13,
     13,
+    14,
     14
    ],
    "nonzero": [
@@ -147,6 +152,7 @@
     13,
     13,
     13,
+    14,
     14
    ],
    "typical": 13,
@@ -170,13 +176,14 @@
    "company": "Buffer",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 1,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    1,
     1,
     1,
     1,
@@ -188,6 +195,7 @@
     1
    ],
    "nonzero": [
+    1,
     1,
     1,
     1,
@@ -219,13 +227,14 @@
    "company": "Capchase",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 6,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    6,
     6,
     6,
     6,
@@ -237,6 +246,7 @@
     6
    ],
    "nonzero": [
+    6,
     6,
     6,
     6,
@@ -268,13 +278,14 @@
    "company": "Checkly",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 3,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    3,
     3,
     3,
     3,
@@ -286,6 +297,7 @@
     3
    ],
    "nonzero": [
+    3,
     3,
     3,
     3,
@@ -317,11 +329,11 @@
    "company": "Checkout.com",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 163,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 164,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     162,
@@ -332,7 +344,8 @@
     158,
     158,
     158,
-    163
+    163,
+    164
    ],
    "nonzero": [
     162,
@@ -343,7 +356,8 @@
     158,
     158,
     158,
-    163
+    163,
+    164
    ],
    "typical": 162,
    "zero_runs": 0,
@@ -366,11 +380,11 @@
    "company": "Cohere",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 118,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 117,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     119,
@@ -381,7 +395,8 @@
     119,
     118,
     118,
-    118
+    118,
+    117
    ],
    "nonzero": [
     119,
@@ -392,7 +407,8 @@
     119,
     118,
     118,
-    118
+    118,
+    117
    ],
    "typical": 119,
    "zero_runs": 0,
@@ -415,11 +431,11 @@
    "company": "Confluent",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty": "2026-10-12T09:44:32.428091129Z",
    "last_non_empty_n": 17,
    "non_empty_days": 2,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     17,
@@ -427,6 +443,7 @@
     17,
     17,
     17,
+    0,
     0,
     0,
     0,
@@ -440,7 +457,7 @@
     17
    ],
    "typical": 17,
-   "zero_runs": 4,
+   "zero_runs": 5,
    "zero_since": "2026-10-12T19:48:02.269071264Z",
    "err_runs": 0,
    "err_since": "0001-01-01T00:00:00Z",
@@ -460,11 +477,11 @@
    "company": "Crisp",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 35,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     34,
@@ -475,6 +492,7 @@
     34,
     34,
     34,
+    35,
     35
    ],
    "nonzero": [
@@ -486,6 +504,7 @@
     34,
     34,
     34,
+    35,
     35
    ],
    "typical": 34,
@@ -509,13 +528,14 @@
    "company": "Dash0",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 46,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    46,
     46,
     46,
     46,
@@ -527,6 +547,7 @@
     46
    ],
    "nonzero": [
+    46,
     46,
     46,
     46,
@@ -558,11 +579,11 @@
    "company": "Docplanner (Doctoralia)",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 45,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     42,
@@ -573,6 +594,7 @@
     41,
     41,
     41,
+    45,
     45
    ],
    "nonzero": [
@@ -584,6 +606,7 @@
     41,
     41,
     41,
+    45,
     45
    ],
    "typical": 42,
@@ -607,11 +630,11 @@
    "company": "Drata",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 32,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     33,
@@ -622,6 +645,7 @@
     33,
     33,
     33,
+    32,
     32
    ],
    "nonzero": [
@@ -633,6 +657,7 @@
     33,
     33,
     33,
+    32,
     32
    ],
    "typical": 33,
@@ -656,11 +681,11 @@
    "company": "Skyscanner",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 3,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     4,
@@ -669,6 +694,7 @@
     4,
     4,
     4,
+    3,
     3,
     3
    ],
@@ -679,6 +705,7 @@
     4,
     4,
     4,
+    3,
     3,
     3
    ],
@@ -703,11 +730,11 @@
    "company": "ElevenLabs",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 142,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 144,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     124,
@@ -718,7 +745,8 @@
     132,
     132,
     134,
-    142
+    142,
+    144
    ],
    "nonzero": [
     124,
@@ -729,9 +757,10 @@
     132,
     132,
     134,
-    142
+    142,
+    144
    ],
-   "typical": 128,
+   "typical": 130,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -752,13 +781,14 @@
    "company": "Help Scout",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 7,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    7,
     7,
     7,
     7,
@@ -770,6 +800,7 @@
     7
    ],
    "nonzero": [
+    7,
     7,
     7,
     7,
@@ -801,11 +832,11 @@
    "company": "Hostinger",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 63,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 62,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     73,
@@ -816,7 +847,8 @@
     65,
     65,
     65,
-    63
+    63,
+    62
    ],
    "nonzero": [
     73,
@@ -827,9 +859,10 @@
     65,
     65,
     65,
-    63
+    63,
+    62
    ],
-   "typical": 72,
+   "typical": 68,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -850,11 +883,11 @@
    "company": "incident.io",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 34,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 33,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     36,
@@ -865,7 +898,8 @@
     34,
     34,
     34,
-    34
+    34,
+    33
    ],
    "nonzero": [
     36,
@@ -876,9 +910,10 @@
     34,
     34,
     34,
-    34
+    34,
+    33
    ],
-   "typical": 36,
+   "typical": 35,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -899,11 +934,11 @@
    "company": "Mend.io",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 9,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     10,
@@ -914,6 +949,7 @@
     10,
     10,
     10,
+    9,
     9
    ],
    "nonzero": [
@@ -925,6 +961,7 @@
     10,
     10,
     10,
+    9,
     9
    ],
    "typical": 10,
@@ -948,11 +985,11 @@
    "company": "Miro",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 23,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     24,
@@ -963,6 +1000,7 @@
     24,
     24,
     24,
+    23,
     23
    ],
    "nonzero": [
@@ -974,6 +1012,7 @@
     24,
     24,
     24,
+    23,
     23
    ],
    "typical": 24,
@@ -997,11 +1036,11 @@
    "company": "Mistral AI",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 214,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 213,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     213,
@@ -1012,7 +1051,8 @@
     215,
     215,
     215,
-    214
+    214,
+    213
    ],
    "nonzero": [
     213,
@@ -1023,9 +1063,10 @@
     215,
     215,
     215,
-    214
+    214,
+    213
    ],
-   "typical": 214,
+   "typical": 213,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -1046,11 +1087,11 @@
    "company": "n8n",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 43,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     38,
@@ -1061,6 +1102,7 @@
     40,
     40,
     41,
+    43,
     43
    ],
    "nonzero": [
@@ -1072,6 +1114,7 @@
     40,
     40,
     41,
+    43,
     43
    ],
    "typical": 39,
@@ -1095,11 +1138,11 @@
    "company": "Nord Security",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 139,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 140,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     139,
@@ -1110,7 +1153,8 @@
     139,
     139,
     141,
-    139
+    139,
+    140
    ],
    "nonzero": [
     139,
@@ -1121,7 +1165,8 @@
     139,
     139,
     141,
-    139
+    139,
+    140
    ],
    "typical": 139,
    "zero_runs": 0,
@@ -1144,11 +1189,11 @@
    "company": "OpenAI",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 799,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 805,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     815,
@@ -1159,7 +1204,8 @@
     809,
     808,
     808,
-    799
+    799,
+    805
    ],
    "nonzero": [
     815,
@@ -1170,9 +1216,10 @@
     809,
     808,
     808,
-    799
+    799,
+    805
    ],
-   "typical": 811,
+   "typical": 810,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -1193,13 +1240,14 @@
    "company": "Oyster HR",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 23,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    23,
     23,
     23,
     23,
@@ -1211,6 +1259,7 @@
     23
    ],
    "nonzero": [
+    23,
     23,
     23,
     23,
@@ -1242,11 +1291,11 @@
    "company": "Perk (ex-TravelPerk)",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 133,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 134,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     129,
@@ -1257,7 +1306,8 @@
     131,
     131,
     130,
-    133
+    133,
+    134
    ],
    "nonzero": [
     129,
@@ -1268,7 +1318,8 @@
     131,
     131,
     130,
-    133
+    133,
+    134
    ],
    "typical": 130,
    "zero_runs": 0,
@@ -1291,11 +1342,11 @@
    "company": "Pleo",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 31,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     34,
@@ -1306,6 +1357,7 @@
     33,
     33,
     30,
+    31,
     31
    ],
    "nonzero": [
@@ -1317,9 +1369,10 @@
     33,
     33,
     30,
+    31,
     31
    ],
-   "typical": 34,
+   "typical": 33,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -1340,13 +1393,14 @@
    "company": "PostHog",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 10,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    10,
     10,
     10,
     10,
@@ -1358,6 +1412,7 @@
     10
    ],
    "nonzero": [
+    10,
     10,
     10,
     10,
@@ -1389,11 +1444,11 @@
    "company": "Preply",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 125,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 131,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     127,
@@ -1404,7 +1459,8 @@
     127,
     127,
     125,
-    125
+    125,
+    131
    ],
    "nonzero": [
     127,
@@ -1415,7 +1471,8 @@
     127,
     127,
     125,
-    125
+    125,
+    131
    ],
    "typical": 127,
    "zero_runs": 0,
@@ -1438,13 +1495,14 @@
    "company": "Semgrep",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 12,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    12,
     12,
     12,
     12,
@@ -1456,6 +1514,7 @@
     12
    ],
    "nonzero": [
+    12,
     12,
     12,
     12,
@@ -1487,13 +1546,14 @@
    "company": "Sentry",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 46,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    46,
     46,
     46,
     46,
@@ -1505,6 +1565,7 @@
     46
    ],
    "nonzero": [
+    46,
     46,
     46,
     46,
@@ -1536,13 +1597,14 @@
    "company": "SEON",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 12,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    12,
     12,
     12,
     12,
@@ -1554,6 +1616,7 @@
     12
    ],
    "nonzero": [
+    12,
     12,
     12,
     12,
@@ -1585,11 +1648,11 @@
    "company": "Snowflake",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 354,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 356,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     358,
@@ -1600,7 +1663,8 @@
     357,
     360,
     356,
-    354
+    354,
+    356
    ],
    "nonzero": [
     358,
@@ -1611,7 +1675,8 @@
     357,
     360,
     356,
-    354
+    354,
+    356
    ],
    "typical": 357,
    "zero_runs": 0,
@@ -1634,11 +1699,11 @@
    "company": "Snyk",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 24,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     22,
@@ -1648,6 +1713,7 @@
     22,
     22,
     22,
+    24,
     24
    ],
    "nonzero": [
@@ -1658,6 +1724,7 @@
     22,
     22,
     22,
+    24,
     24
    ],
    "typical": 22,
@@ -1681,11 +1748,11 @@
    "company": "Supabase",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 52,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     54,
@@ -1693,6 +1760,7 @@
     54,
     54,
     54,
+    52,
     52,
     52,
     52,
@@ -1707,9 +1775,10 @@
     52,
     52,
     52,
+    52,
     52
    ],
-   "typical": 54,
+   "typical": 53,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -1730,11 +1799,11 @@
    "company": "Synthesia",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 47,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     46,
@@ -1745,6 +1814,7 @@
     46,
     46,
     46,
+    47,
     47
    ],
    "nonzero": [
@@ -1756,6 +1826,7 @@
     46,
     46,
     46,
+    47,
     47
    ],
    "typical": 46,
@@ -1779,11 +1850,11 @@
    "company": "Temporal",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 68,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 70,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     67,
@@ -1794,7 +1865,8 @@
     67,
     68,
     68,
-    68
+    68,
+    70
    ],
    "nonzero": [
     67,
@@ -1805,7 +1877,8 @@
     67,
     68,
     68,
-    68
+    68,
+    70
    ],
    "typical": 67,
    "zero_runs": 0,
@@ -1828,13 +1901,14 @@
    "company": "Doist",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 2,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
+    2,
     2,
     2,
     2,
@@ -1845,6 +1919,7 @@
     2
    ],
    "nonzero": [
+    2,
     2,
     2,
     2,
@@ -1875,11 +1950,11 @@
    "company": "Vanta",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 84,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 82,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     83,
@@ -1890,7 +1965,8 @@
     83,
     83,
     83,
-    84
+    84,
+    82
    ],
    "nonzero": [
     83,
@@ -1901,7 +1977,8 @@
     83,
     83,
     83,
-    84
+    84,
+    82
    ],
    "typical": 83,
    "zero_runs": 0,
@@ -1924,13 +2001,14 @@
    "company": "Zapier",
    "src_type": "ashby",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 11,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    11,
     11,
     11,
     11,
@@ -1942,6 +2020,7 @@
     11
    ],
    "nonzero": [
+    11,
     11,
     11,
     11,
@@ -1973,11 +2052,11 @@
    "company": "Atlassian",
    "src_type": "atlassian",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 321,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     334,
@@ -1988,6 +2067,7 @@
     327,
     324,
     326,
+    321,
     321
    ],
    "nonzero": [
@@ -1999,9 +2079,10 @@
     327,
     324,
     326,
+    321,
     321
    ],
-   "typical": 329,
+   "typical": 328,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -2022,11 +2103,11 @@
    "company": "Wallbox",
    "src_type": "bamboohr",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 18,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     18,
@@ -2036,6 +2117,7 @@
     18,
     18,
     17,
+    18,
     18
    ],
    "nonzero": [
@@ -2046,6 +2128,7 @@
     18,
     18,
     17,
+    18,
     18
    ],
    "typical": 18,
@@ -2069,13 +2152,14 @@
    "company": "Worldsensing",
    "src_type": "bamboohr",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 3,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
+    3,
     3,
     3,
     3,
@@ -2086,6 +2170,7 @@
     3
    ],
    "nonzero": [
+    3,
     3,
     3,
     3,
@@ -2116,17 +2201,18 @@
    "company": "groundcover",
    "src_type": "comeet",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 18,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     19,
     19,
     19,
     19,
+    18,
     18,
     18,
     18,
@@ -2137,6 +2223,7 @@
     19,
     19,
     19,
+    18,
     18,
     18,
     18,
@@ -2163,11 +2250,11 @@
    "company": "Deel",
    "src_type": "deel",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 270,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 272,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     266,
@@ -2177,7 +2264,8 @@
     268,
     267,
     270,
-    270
+    270,
+    272
    ],
    "nonzero": [
     266,
@@ -2187,7 +2275,8 @@
     268,
     267,
     270,
-    270
+    270,
+    272
    ],
    "typical": 267,
    "zero_runs": 0,
@@ -2210,11 +2299,11 @@
    "company": "Dynatrace",
    "src_type": "dynatrace",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 118,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     111,
@@ -2224,6 +2313,7 @@
     120,
     120,
     119,
+    118,
     118
    ],
    "nonzero": [
@@ -2234,9 +2324,10 @@
     120,
     120,
     119,
+    118,
     118
    ],
-   "typical": 116,
+   "typical": 118,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -2282,9 +2373,9 @@
    "typical": 19,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
-   "err_runs": 0,
-   "err_since": "0001-01-01T00:00:00Z",
-   "last_err": "",
+   "err_runs": 1,
+   "err_since": "2026-10-13T21:50:24.909118952Z",
+   "last_err": "eightfold apply.careers.microsoft.com: no stable snapshot after 3 attempts: eightfold apply.careers.microsoft.com: page at start 0: GET https://apply.careers.microsoft.com/api/pcsx/search?domain=micro…",
    "kind": "",
    "raised_at": "0001-01-01T00:00:00Z",
    "sent_at": "0001-01-01T00:00:00Z",
@@ -2300,11 +2391,11 @@
    "company": "Factorial",
    "src_type": "factorial",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 131,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     136,
@@ -2314,6 +2405,7 @@
     136,
     137,
     138,
+    131,
     131
    ],
    "nonzero": [
@@ -2324,6 +2416,7 @@
     136,
     137,
     138,
+    131,
     131
    ],
    "typical": 136,
@@ -2347,11 +2440,11 @@
    "company": "Adyen",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 237,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 236,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     237,
@@ -2362,7 +2455,8 @@
     240,
     240,
     243,
-    237
+    237,
+    236
    ],
    "nonzero": [
     237,
@@ -2373,7 +2467,8 @@
     240,
     240,
     243,
-    237
+    237,
+    236
    ],
    "typical": 237,
    "zero_runs": 0,
@@ -2396,11 +2491,11 @@
    "company": "Airtable",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 3,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     4,
@@ -2408,6 +2503,7 @@
     4,
     4,
     4,
+    3,
     3,
     3,
     3,
@@ -2422,9 +2518,10 @@
     3,
     3,
     3,
+    3,
     3
    ],
-   "typical": 4,
+   "typical": 3,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -2445,11 +2542,11 @@
    "company": "Algolia",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 36,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     38,
@@ -2460,6 +2557,7 @@
     37,
     37,
     37,
+    36,
     36
    ],
    "nonzero": [
@@ -2471,9 +2569,10 @@
     37,
     37,
     37,
+    36,
     36
    ],
-   "typical": 38,
+   "typical": 37,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -2494,11 +2593,11 @@
    "company": "Anthropic",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 646,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 647,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     645,
@@ -2509,7 +2608,8 @@
     647,
     646,
     644,
-    646
+    646,
+    647
    ],
    "nonzero": [
     645,
@@ -2520,7 +2620,8 @@
     647,
     646,
     644,
-    646
+    646,
+    647
    ],
    "typical": 645,
    "zero_runs": 0,
@@ -2543,13 +2644,14 @@
    "company": "Automattic",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 13,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    13,
     13,
     13,
     13,
@@ -2561,6 +2663,7 @@
     13
    ],
    "nonzero": [
+    13,
     13,
     13,
     13,
@@ -2592,11 +2695,11 @@
    "company": "Bitpanda",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 31,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     27,
@@ -2607,6 +2710,7 @@
     29,
     29,
     28,
+    31,
     31
    ],
    "nonzero": [
@@ -2618,6 +2722,7 @@
     29,
     29,
     28,
+    31,
     31
    ],
    "typical": 27,
@@ -2641,11 +2746,11 @@
    "company": "Bitwarden",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 41,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     36,
@@ -2656,6 +2761,7 @@
     37,
     37,
     42,
+    41,
     41
    ],
    "nonzero": [
@@ -2667,6 +2773,7 @@
     37,
     37,
     42,
+    41,
     41
    ],
    "typical": 36,
@@ -2690,13 +2797,14 @@
    "company": "Canonical",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 311,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    311,
     311,
     311,
     311,
@@ -2708,6 +2816,7 @@
     311
    ],
    "nonzero": [
+    311,
     311,
     311,
     311,
@@ -2739,11 +2848,11 @@
    "company": "Celonis",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 217,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 216,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     226,
@@ -2754,7 +2863,8 @@
     212,
     212,
     214,
-    217
+    217,
+    216
    ],
    "nonzero": [
     226,
@@ -2765,9 +2875,10 @@
     212,
     212,
     214,
-    217
+    217,
+    216
    ],
-   "typical": 226,
+   "typical": 221,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -2788,13 +2899,14 @@
    "company": "CircleCI",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 13,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    13,
     13,
     13,
     13,
@@ -2806,6 +2918,7 @@
     13
    ],
    "nonzero": [
+    13,
     13,
     13,
     13,
@@ -2837,11 +2950,11 @@
    "company": "Cloudflare",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 435,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 441,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     424,
@@ -2852,7 +2965,8 @@
     434,
     434,
     436,
-    435
+    435,
+    441
    ],
    "nonzero": [
     424,
@@ -2863,9 +2977,10 @@
     434,
     434,
     436,
-    435
+    435,
+    441
    ],
-   "typical": 424,
+   "typical": 429,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -2886,11 +3001,11 @@
    "company": "Contentful",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 20,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 21,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     19,
@@ -2901,7 +3016,8 @@
     19,
     19,
     19,
-    20
+    20,
+    21
    ],
    "nonzero": [
     19,
@@ -2912,7 +3028,8 @@
     19,
     19,
     19,
-    20
+    20,
+    21
    ],
    "typical": 19,
    "zero_runs": 0,
@@ -2935,11 +3052,11 @@
    "company": "Databricks",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 895,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 896,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     891,
@@ -2950,7 +3067,8 @@
     894,
     896,
     897,
-    895
+    895,
+    896
    ],
    "nonzero": [
     891,
@@ -2961,9 +3079,10 @@
     894,
     896,
     897,
-    895
+    895,
+    896
    ],
-   "typical": 892,
+   "typical": 893,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -2984,11 +3103,11 @@
    "company": "DataDog",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 437,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 439,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     435,
@@ -2999,7 +3118,8 @@
     433,
     433,
     435,
-    437
+    437,
+    439
    ],
    "nonzero": [
     435,
@@ -3010,7 +3130,8 @@
     433,
     433,
     435,
-    437
+    437,
+    439
    ],
    "typical": 435,
    "zero_runs": 0,
@@ -3033,11 +3154,11 @@
    "company": "Dataiku",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 16,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     17,
@@ -3045,6 +3166,7 @@
     17,
     17,
     17,
+    16,
     16,
     16,
     16,
@@ -3059,9 +3181,10 @@
     16,
     16,
     16,
+    16,
     16
    ],
-   "typical": 17,
+   "typical": 16,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -3129,11 +3252,11 @@
    "company": "Ebury",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 150,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     150,
@@ -3144,6 +3267,7 @@
     145,
     145,
     148,
+    150,
     150
    ],
    "nonzero": [
@@ -3155,6 +3279,7 @@
     145,
     145,
     148,
+    150,
     150
    ],
    "typical": 150,
@@ -3178,11 +3303,11 @@
    "company": "Elastic",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 396,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 382,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     409,
@@ -3193,7 +3318,8 @@
     404,
     403,
     403,
-    396
+    396,
+    382
    ],
    "nonzero": [
     409,
@@ -3204,9 +3330,10 @@
     404,
     403,
     403,
-    396
+    396,
+    382
    ],
-   "typical": 407,
+   "typical": 405,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -3227,11 +3354,11 @@
    "company": "Feedzai",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 29,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 31,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     28,
@@ -3242,7 +3369,8 @@
     27,
     27,
     27,
-    29
+    29,
+    31
    ],
    "nonzero": [
     28,
@@ -3253,7 +3381,8 @@
     27,
     27,
     27,
-    29
+    29,
+    31
    ],
    "typical": 28,
    "zero_runs": 0,
@@ -3276,11 +3405,11 @@
    "company": "GitLab",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 221,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 217,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     221,
@@ -3291,7 +3420,8 @@
     221,
     221,
     222,
-    221
+    221,
+    217
    ],
    "nonzero": [
     221,
@@ -3302,7 +3432,8 @@
     221,
     221,
     222,
-    221
+    221,
+    217
    ],
    "typical": 221,
    "zero_runs": 0,
@@ -3325,11 +3456,11 @@
    "company": "Grafana Labs",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 109,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 108,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     106,
@@ -3340,7 +3471,8 @@
     104,
     104,
     108,
-    109
+    109,
+    108
    ],
    "nonzero": [
     106,
@@ -3351,7 +3483,8 @@
     104,
     104,
     108,
-    109
+    109,
+    108
    ],
    "typical": 106,
    "zero_runs": 0,
@@ -3374,11 +3507,11 @@
    "company": "Honeycomb",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 17,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 19,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     17,
@@ -3389,7 +3522,8 @@
     17,
     17,
     17,
-    17
+    17,
+    19
    ],
    "nonzero": [
     17,
@@ -3400,7 +3534,8 @@
     17,
     17,
     17,
-    17
+    17,
+    19
    ],
    "typical": 17,
    "zero_runs": 0,
@@ -3423,11 +3558,11 @@
    "company": "Huntress",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 36,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     36,
@@ -3436,6 +3571,7 @@
     36,
     36,
     35,
+    36,
     36,
     36,
     36
@@ -3447,6 +3583,7 @@
     36,
     36,
     35,
+    36,
     36,
     36,
     36
@@ -3472,11 +3609,11 @@
    "company": "Intercom",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 108,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     106,
@@ -3487,6 +3624,7 @@
     105,
     105,
     107,
+    108,
     108
    ],
    "nonzero": [
@@ -3498,6 +3636,7 @@
     105,
     105,
     107,
+    108,
     108
    ],
    "typical": 106,
@@ -3521,11 +3660,11 @@
    "company": "JetBrains",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 58,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     59,
@@ -3536,6 +3675,7 @@
     60,
     60,
     59,
+    58,
     58
    ],
    "nonzero": [
@@ -3547,6 +3687,7 @@
     60,
     60,
     59,
+    58,
     58
    ],
    "typical": 59,
@@ -3570,13 +3711,14 @@
    "company": "Kentik",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 5,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    5,
     5,
     5,
     5,
@@ -3588,6 +3730,7 @@
     5
    ],
    "nonzero": [
+    5,
     5,
     5,
     5,
@@ -3619,11 +3762,11 @@
    "company": "Lokalise",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 2,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     3,
@@ -3633,6 +3776,7 @@
     3,
     3,
     3,
+    2,
     2,
     2
    ],
@@ -3644,6 +3788,7 @@
     3,
     3,
     3,
+    2,
     2,
     2
    ],
@@ -3668,11 +3813,11 @@
    "company": "Mews",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 35,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     37,
@@ -3683,6 +3828,7 @@
     36,
     36,
     36,
+    35,
     35
    ],
    "nonzero": [
@@ -3694,6 +3840,7 @@
     36,
     36,
     36,
+    35,
     35
    ],
    "typical": 36,
@@ -3717,11 +3864,11 @@
    "company": "Mirakl",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 28,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     29,
@@ -3732,6 +3879,7 @@
     29,
     29,
     29,
+    28,
     28
    ],
    "nonzero": [
@@ -3743,6 +3891,7 @@
     29,
     29,
     29,
+    28,
     28
    ],
    "typical": 29,
@@ -3766,11 +3915,11 @@
    "company": "MongoDB",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 392,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     391,
@@ -3781,6 +3930,7 @@
     395,
     395,
     393,
+    392,
     392
    ],
    "nonzero": [
@@ -3792,6 +3942,7 @@
     395,
     395,
     393,
+    392,
     392
    ],
    "typical": 391,
@@ -3815,11 +3966,11 @@
    "company": "N26",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 37,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     42,
@@ -3830,6 +3981,7 @@
     39,
     39,
     39,
+    37,
     37
    ],
    "nonzero": [
@@ -3841,9 +3993,10 @@
     39,
     39,
     39,
+    37,
     37
    ],
-   "typical": 40,
+   "typical": 39,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -3864,11 +4017,11 @@
    "company": "New Relic",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 56,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 55,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     53,
@@ -3879,7 +4032,8 @@
     54,
     54,
     56,
-    56
+    56,
+    55
    ],
    "nonzero": [
     53,
@@ -3890,7 +4044,8 @@
     54,
     54,
     56,
-    56
+    56,
+    55
    ],
    "typical": 54,
    "zero_runs": 0,
@@ -3913,11 +4068,11 @@
    "company": "Ocado Technology",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 48,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 49,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     49,
@@ -3928,7 +4083,8 @@
     48,
     48,
     47,
-    48
+    48,
+    49
    ],
    "nonzero": [
     49,
@@ -3939,7 +4095,8 @@
     48,
     48,
     47,
-    48
+    48,
+    49
    ],
    "typical": 48,
    "zero_runs": 0,
@@ -3962,11 +4119,11 @@
    "company": "Okta",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 378,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 377,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     378,
@@ -3977,7 +4134,8 @@
     376,
     380,
     379,
-    378
+    378,
+    377
    ],
    "nonzero": [
     378,
@@ -3988,7 +4146,8 @@
     376,
     380,
     379,
-    378
+    378,
+    377
    ],
    "typical": 378,
    "zero_runs": 0,
@@ -4011,11 +4170,11 @@
    "company": "PagerDuty",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 54,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 55,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     51,
@@ -4026,7 +4185,8 @@
     51,
     51,
     51,
-    54
+    54,
+    55
    ],
    "nonzero": [
     51,
@@ -4037,7 +4197,8 @@
     51,
     51,
     51,
-    54
+    54,
+    55
    ],
    "typical": 51,
    "zero_runs": 0,
@@ -4060,11 +4221,11 @@
    "company": "Payhawk",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 53,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     44,
@@ -4075,6 +4236,7 @@
     52,
     52,
     52,
+    53,
     53
    ],
    "nonzero": [
@@ -4086,9 +4248,10 @@
     52,
     52,
     52,
+    53,
     53
    ],
-   "typical": 46,
+   "typical": 49,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -4109,11 +4272,11 @@
    "company": "SentinelOne",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 261,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 266,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     269,
@@ -4124,7 +4287,8 @@
     259,
     259,
     258,
-    261
+    261,
+    266
    ],
    "nonzero": [
     269,
@@ -4135,9 +4299,10 @@
     259,
     259,
     258,
-    261
+    261,
+    266
    ],
-   "typical": 269,
+   "typical": 267,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -4158,17 +4323,18 @@
    "company": "Sprout Social",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 25,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     26,
     26,
     26,
     26,
+    25,
     25,
     25,
     25,
@@ -4180,6 +4346,7 @@
     26,
     26,
     26,
+    25,
     25,
     25,
     25,
@@ -4207,11 +4374,11 @@
    "company": "Storyblok",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 18,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     17,
@@ -4222,6 +4389,7 @@
     17,
     17,
     17,
+    18,
     18
    ],
    "nonzero": [
@@ -4233,6 +4401,7 @@
     17,
     17,
     17,
+    18,
     18
    ],
    "typical": 17,
@@ -4256,11 +4425,11 @@
    "company": "Stripe",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 723,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 724,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     728,
@@ -4271,7 +4440,8 @@
     722,
     722,
     721,
-    723
+    723,
+    724
    ],
    "nonzero": [
     728,
@@ -4282,9 +4452,10 @@
     722,
     722,
     721,
-    723
+    723,
+    724
    ],
-   "typical": 725,
+   "typical": 724,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -4305,11 +4476,11 @@
    "company": "SumUp",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 335,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     347,
@@ -4320,6 +4491,7 @@
     349,
     349,
     342,
+    335,
     335
    ],
    "nonzero": [
@@ -4331,6 +4503,7 @@
     349,
     349,
     342,
+    335,
     335
    ],
    "typical": 347,
@@ -4354,13 +4527,14 @@
    "company": "Tailscale",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 63,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    63,
     63,
     63,
     63,
@@ -4372,6 +4546,7 @@
     63
    ],
    "nonzero": [
+    63,
     63,
     63,
     63,
@@ -4403,11 +4578,11 @@
    "company": "Tines",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 28,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 30,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     27,
@@ -4418,7 +4593,8 @@
     28,
     28,
     28,
-    28
+    28,
+    30
    ],
    "nonzero": [
     27,
@@ -4429,7 +4605,8 @@
     28,
     28,
     28,
-    28
+    28,
+    30
    ],
    "typical": 27,
    "zero_runs": 0,
@@ -4452,13 +4629,14 @@
    "company": "TrueLayer",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 3,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    3,
     3,
     3,
     3,
@@ -4470,6 +4648,7 @@
     3
    ],
    "nonzero": [
+    3,
     3,
     3,
     3,
@@ -4501,11 +4680,11 @@
    "company": "Twilio",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 148,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 145,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     144,
@@ -4516,7 +4695,8 @@
     145,
     146,
     147,
-    148
+    148,
+    145
    ],
    "nonzero": [
     144,
@@ -4527,7 +4707,8 @@
     145,
     146,
     147,
-    148
+    148,
+    145
    ],
    "typical": 144,
    "zero_runs": 0,
@@ -4550,13 +4731,14 @@
    "company": "Typeform",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 13,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    13,
     13,
     13,
     13,
@@ -4568,6 +4750,7 @@
     13
    ],
    "nonzero": [
+    13,
     13,
     13,
     13,
@@ -4599,11 +4782,11 @@
    "company": "Vercel",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 90,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 89,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     89,
@@ -4614,7 +4797,8 @@
     89,
     89,
     89,
-    90
+    90,
+    89
    ],
    "nonzero": [
     89,
@@ -4625,7 +4809,8 @@
     89,
     89,
     89,
-    90
+    90,
+    89
    ],
    "typical": 89,
    "zero_runs": 0,
@@ -4648,13 +4833,14 @@
    "company": "Veriff",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 11,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    11,
     11,
     11,
     11,
@@ -4666,6 +4852,7 @@
     11
    ],
    "nonzero": [
+    11,
     11,
     11,
     11,
@@ -4697,13 +4884,14 @@
    "company": "Wise",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 20,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    20,
     20,
     20,
     20,
@@ -4715,6 +4903,7 @@
     20
    ],
    "nonzero": [
+    20,
     20,
     20,
     20,
@@ -4746,11 +4935,11 @@
    "company": "Wiz",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 122,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     125,
@@ -4761,6 +4950,7 @@
     126,
     125,
     125,
+    122,
     122
    ],
    "nonzero": [
@@ -4772,6 +4962,7 @@
     126,
     125,
     125,
+    122,
     122
    ],
    "typical": 125,
@@ -4795,11 +4986,11 @@
    "company": "Zscaler",
    "src_type": "greenhouse",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 369,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 364,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     378,
@@ -4810,7 +5001,8 @@
     376,
     375,
     374,
-    369
+    369,
+    364
    ],
    "nonzero": [
     378,
@@ -4821,7 +5013,8 @@
     376,
     375,
     374,
-    369
+    369,
+    364
    ],
    "typical": 376,
    "zero_runs": 0,
@@ -4844,11 +5037,11 @@
    "company": "Kiteworks",
    "src_type": "hibob",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 23,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     22,
@@ -4858,6 +5051,7 @@
     22,
     22,
     22,
+    23,
     23
    ],
    "nonzero": [
@@ -4868,6 +5062,7 @@
     22,
     22,
     22,
+    23,
     23
    ],
    "typical": 22,
@@ -4891,11 +5086,11 @@
    "company": "Aiven",
    "src_type": "htmllinks",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 43,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     42,
@@ -4904,6 +5099,7 @@
     43,
     44,
     44,
+    43,
     43,
     43
    ],
@@ -4914,6 +5110,7 @@
     43,
     44,
     44,
+    43,
     43,
     43
    ],
@@ -4938,17 +5135,18 @@
    "company": "Coralogix",
    "src_type": "htmllinks",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 63,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     60,
     60,
     61,
     61,
+    63,
     63,
     63,
     63,
@@ -4962,9 +5160,10 @@
     63,
     63,
     63,
+    63,
     63
    ],
-   "typical": 62,
+   "typical": 63,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -4985,13 +5184,14 @@
    "company": "IBM (incl. HashiCorp)",
    "src_type": "ibm",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 2,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
+    2,
     2,
     2,
     2,
@@ -5002,6 +5202,7 @@
     2
    ],
    "nonzero": [
+    2,
     2,
     2,
     2,
@@ -5032,13 +5233,14 @@
    "company": "Cloudinary",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 10,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    10,
     10,
     10,
     10,
@@ -5050,6 +5252,7 @@
     10
    ],
    "nonzero": [
+    10,
     10,
     10,
     10,
@@ -5081,11 +5284,11 @@
    "company": "Contentsquare",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 22,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     20,
@@ -5096,6 +5299,7 @@
     23,
     23,
     23,
+    22,
     22
    ],
    "nonzero": [
@@ -5107,9 +5311,10 @@
     23,
     23,
     23,
+    22,
     22
    ],
-   "typical": 20,
+   "typical": 21,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -5130,13 +5335,14 @@
    "company": "Lodgify",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 11,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    11,
     11,
     11,
     11,
@@ -5148,6 +5354,7 @@
     11
    ],
    "nonzero": [
+    11,
     11,
     11,
     11,
@@ -5179,13 +5386,14 @@
    "company": "Logz.io",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty": "0001-01-01T00:00:00Z",
    "last_non_empty_n": 0,
    "non_empty_days": 0,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    0,
     0,
     0,
     0,
@@ -5198,7 +5406,7 @@
    ],
    "nonzero": null,
    "typical": 0,
-   "zero_runs": 9,
+   "zero_runs": 10,
    "zero_since": "2026-10-11T19:51:13.644573115Z",
    "err_runs": 0,
    "err_since": "0001-01-01T00:00:00Z",
@@ -5218,11 +5426,11 @@
    "company": "Mitek Systems",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 5,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     4,
@@ -5233,6 +5441,7 @@
     4,
     4,
     4,
+    5,
     5
    ],
    "nonzero": [
@@ -5244,6 +5453,7 @@
     4,
     4,
     4,
+    5,
     5
    ],
    "typical": 4,
@@ -5267,13 +5477,14 @@
    "company": "Pipedrive",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 8,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    8,
     8,
     8,
     8,
@@ -5285,6 +5496,7 @@
     8
    ],
    "nonzero": [
+    8,
     8,
     8,
     8,
@@ -5316,11 +5528,11 @@
    "company": "Qonto",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 56,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     49,
@@ -5331,6 +5543,7 @@
     53,
     53,
     51,
+    56,
     56
    ],
    "nonzero": [
@@ -5342,6 +5555,7 @@
     53,
     53,
     51,
+    56,
     56
    ],
    "typical": 51,
@@ -5365,11 +5579,11 @@
    "company": "Sonatype",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 17,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     19,
@@ -5380,6 +5594,7 @@
     19,
     19,
     19,
+    17,
     17
    ],
    "nonzero": [
@@ -5391,6 +5606,7 @@
     19,
     19,
     19,
+    17,
     17
    ],
    "typical": 19,
@@ -5414,11 +5630,11 @@
    "company": "Superside",
    "src_type": "lever",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 16,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     15,
@@ -5429,6 +5645,7 @@
     15,
     15,
     15,
+    16,
     16
    ],
    "nonzero": [
@@ -5440,6 +5657,7 @@
     15,
     15,
     15,
+    16,
     16
    ],
    "typical": 15,
@@ -5463,11 +5681,11 @@
    "company": "Checkmk",
    "src_type": "personio",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 10,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     11,
@@ -5476,6 +5694,7 @@
     11,
     11,
     11,
+    10,
     10,
     10
    ],
@@ -5486,6 +5705,7 @@
     11,
     11,
     11,
+    10,
     10,
     10
    ],
@@ -5510,17 +5730,18 @@
    "company": "Hornetsecurity",
    "src_type": "personio",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 102,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     96,
     96,
     96,
     98,
+    102,
     102,
     102,
     102,
@@ -5534,9 +5755,10 @@
     102,
     102,
     102,
+    102,
     102
    ],
-   "typical": 100,
+   "typical": 102,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -5557,11 +5779,11 @@
    "company": "Allianz Technology",
    "src_type": "phenom",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 177,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 178,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     178,
@@ -5571,7 +5793,8 @@
     182,
     182,
     179,
-    177
+    177,
+    178
    ],
    "nonzero": [
     178,
@@ -5581,7 +5804,8 @@
     182,
     182,
     179,
-    177
+    177,
+    178
    ],
    "typical": 178,
    "zero_runs": 0,
@@ -5604,13 +5828,14 @@
    "company": "Holded (Visma)",
    "src_type": "recruitee",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 12,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    12,
     12,
     12,
     12,
@@ -5622,6 +5847,7 @@
     12
    ],
    "nonzero": [
+    12,
     12,
     12,
     12,
@@ -5653,13 +5879,14 @@
    "company": "Personio",
    "src_type": "recruitee",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 1,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    1,
     1,
     1,
     1,
@@ -5671,6 +5898,7 @@
     1
    ],
    "nonzero": [
+    1,
     1,
     1,
     1,
@@ -5702,13 +5930,14 @@
    "company": "SeQura",
    "src_type": "recruitee",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 13,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    13,
     13,
     13,
     13,
@@ -5720,6 +5949,7 @@
     13
    ],
    "nonzero": [
+    13,
     13,
     13,
     13,
@@ -5751,13 +5981,14 @@
    "company": "Marfeel",
    "src_type": "recruiterflow",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 7,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
+    7,
     7,
     7,
     7,
@@ -5768,6 +5999,7 @@
     7
    ],
    "nonzero": [
+    7,
     7,
     7,
     7,
@@ -5809,7 +6041,7 @@
    "typical": 0,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
-   "err_runs": 8,
+   "err_runs": 9,
    "err_since": "2026-10-11T22:08:05.755413941Z",
    "last_err": "GET https://www.revolut.com/careers/: 403 Forbidden",
    "kind": "",
@@ -5827,11 +6059,11 @@
    "company": "Rippling",
    "src_type": "rippling",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 355,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     346,
@@ -5842,6 +6074,7 @@
     348,
     352,
     351,
+    355,
     355
    ],
    "nonzero": [
@@ -5853,9 +6086,10 @@
     348,
     352,
     351,
+    355,
     355
    ],
-   "typical": 346,
+   "typical": 347,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -5876,11 +6110,11 @@
    "company": "Glovo (Delivery Hero)",
    "src_type": "smartrecruiters",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 950,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 947,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     947,
@@ -5890,7 +6124,8 @@
     966,
     959,
     955,
-    950
+    950,
+    947
    ],
    "nonzero": [
     947,
@@ -5900,9 +6135,10 @@
     966,
     959,
     955,
-    950
+    950,
+    947
    ],
-   "typical": 952,
+   "typical": 950,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -5923,11 +6159,11 @@
    "company": "Freshworks",
    "src_type": "smartrecruiters",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 124,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     126,
@@ -5938,6 +6174,7 @@
     124,
     122,
     123,
+    124,
     124
    ],
    "nonzero": [
@@ -5949,9 +6186,10 @@
     124,
     122,
     123,
+    124,
     124
    ],
-   "typical": 126,
+   "typical": 125,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -5972,13 +6210,14 @@
    "company": "Red Points",
    "src_type": "smartrecruiters",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 7,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
+    7,
     7,
     7,
     7,
@@ -5989,6 +6228,7 @@
     7
    ],
    "nonzero": [
+    7,
     7,
     7,
     7,
@@ -6019,11 +6259,11 @@
    "company": "ServiceNow",
    "src_type": "smartrecruiters",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 676,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 673,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     696,
@@ -6034,7 +6274,8 @@
     697,
     697,
     697,
-    676
+    676,
+    673
    ],
    "nonzero": [
     696,
@@ -6045,7 +6286,8 @@
     697,
     697,
     697,
-    676
+    676,
+    673
    ],
    "typical": 696,
    "zero_runs": 0,
@@ -6068,13 +6310,14 @@
    "company": "Signaturit (Namirial)",
    "src_type": "successfactors",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 5,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
+    5,
     5,
     5,
     5,
@@ -6085,6 +6328,7 @@
     5
    ],
    "nonzero": [
+    5,
     5,
     5,
     5,
@@ -6115,13 +6359,14 @@
    "company": "SAP",
    "src_type": "successfactors",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty": "0001-01-01T00:00:00Z",
    "last_non_empty_n": 0,
    "non_empty_days": 0,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    0,
     0,
     0,
     0,
@@ -6134,7 +6379,7 @@
    ],
    "nonzero": null,
    "typical": 0,
-   "zero_runs": 9,
+   "zero_runs": 10,
    "zero_since": "2026-10-11T19:51:13.644573115Z",
    "err_runs": 0,
    "err_since": "0001-01-01T00:00:00Z",
@@ -6154,13 +6399,14 @@
    "company": "ManoMano",
    "src_type": "teamtailor",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 6,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    6,
     6,
     6,
     6,
@@ -6172,6 +6418,7 @@
     6
    ],
    "nonzero": [
+    6,
     6,
     6,
     6,
@@ -6203,13 +6450,14 @@
    "company": "Outpost24 (ex-Blueliv)",
    "src_type": "teamtailor",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 10,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    10,
     10,
     10,
     10,
@@ -6221,6 +6469,7 @@
     10
    ],
    "nonzero": [
+    10,
     10,
     10,
     10,
@@ -6252,11 +6501,11 @@
    "company": "Paack",
    "src_type": "teamtailor",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 10,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     13,
@@ -6267,6 +6516,7 @@
     13,
     13,
     12,
+    10,
     10
    ],
    "nonzero": [
@@ -6278,6 +6528,7 @@
     13,
     13,
     12,
+    10,
     10
    ],
    "typical": 13,
@@ -6301,11 +6552,11 @@
    "company": "Sumsub",
    "src_type": "teamtailor",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 37,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     39,
@@ -6316,6 +6567,7 @@
     38,
     38,
     38,
+    37,
     37
    ],
    "nonzero": [
@@ -6327,9 +6579,10 @@
     38,
     38,
     38,
+    37,
     37
    ],
-   "typical": 39,
+   "typical": 38,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -6350,13 +6603,14 @@
    "company": "Mangopay",
    "src_type": "teamtailor",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 6,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    6,
     6,
     6,
     6,
@@ -6368,6 +6622,7 @@
     6
    ],
    "nonzero": [
+    6,
     6,
     6,
     6,
@@ -6399,11 +6654,11 @@
    "company": "Unnax (Powens)",
    "src_type": "teamtailor",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 3,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     3,
@@ -6413,6 +6668,7 @@
     4,
     4,
     4,
+    3,
     3
    ],
    "nonzero": [
@@ -6423,6 +6679,7 @@
     4,
     4,
     4,
+    3,
     3
    ],
    "typical": 3,
@@ -6446,13 +6703,14 @@
    "company": "Adevinta",
    "src_type": "workable",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty": "0001-01-01T00:00:00Z",
    "last_non_empty_n": 0,
    "non_empty_days": 0,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
+    0,
     0,
     0,
     0,
@@ -6464,7 +6722,7 @@
    ],
    "nonzero": null,
    "typical": 0,
-   "zero_runs": 8,
+   "zero_runs": 9,
    "zero_since": "2026-10-11T22:08:05.755413941Z",
    "err_runs": 0,
    "err_since": "0001-01-01T00:00:00Z",
@@ -6484,13 +6742,14 @@
    "company": "Exoticca",
    "src_type": "workable",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 37,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    37,
     37,
     37,
     37,
@@ -6502,6 +6761,7 @@
     37
    ],
    "nonzero": [
+    37,
     37,
     37,
     37,
@@ -6533,13 +6793,14 @@
    "company": "Hugging Face",
    "src_type": "workable",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 6,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    6,
     6,
     6,
     6,
@@ -6551,6 +6812,7 @@
     6
    ],
    "nonzero": [
+    6,
     6,
     6,
     6,
@@ -6582,11 +6844,11 @@
    "company": "Kantox",
    "src_type": "workable",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 6,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     5,
@@ -6596,6 +6858,7 @@
     5,
     5,
     5,
+    6,
     6,
     6
    ],
@@ -6607,6 +6870,7 @@
     5,
     5,
     5,
+    6,
     6,
     6
    ],
@@ -6631,13 +6895,14 @@
    "company": "Ukio",
    "src_type": "workable",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 8,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
+    8,
     8,
     8,
     8,
@@ -6649,6 +6914,7 @@
     8
    ],
    "nonzero": [
+    8,
     8,
     8,
     8,
@@ -6680,11 +6946,11 @@
    "company": "Arctic Wolf",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 117,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 116,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     124,
@@ -6695,7 +6961,8 @@
     119,
     119,
     117,
-    117
+    117,
+    116
    ],
    "nonzero": [
     124,
@@ -6706,7 +6973,8 @@
     119,
     119,
     117,
-    117
+    117,
+    116
    ],
    "typical": 119,
    "zero_runs": 0,
@@ -6729,11 +6997,11 @@
    "company": "Cisco",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T02:00:22.81529792Z",
-   "last_non_empty": "2026-10-13T02:00:22.81529792Z",
-   "last_non_empty_n": 1374,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 1400,
    "non_empty_days": 3,
-   "fetches": 7,
+   "fetches": 8,
    "baselined": false,
    "recent": [
     1371,
@@ -6742,7 +7010,8 @@
     1370,
     1353,
     1368,
-    1374
+    1374,
+    1400
    ],
    "nonzero": [
     1371,
@@ -6751,14 +7020,15 @@
     1370,
     1353,
     1368,
-    1374
+    1374,
+    1400
    ],
    "typical": 1371,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
-   "err_runs": 2,
-   "err_since": "2026-10-13T09:21:28.716141244Z",
-   "last_err": "workday Cisco: skipped 1 malformed postings with missing externalPath (raw offsets [132])",
+   "err_runs": 0,
+   "err_since": "0001-01-01T00:00:00Z",
+   "last_err": "",
    "kind": "",
    "raised_at": "0001-01-01T00:00:00Z",
    "sent_at": "0001-01-01T00:00:00Z",
@@ -6774,11 +7044,11 @@
    "company": "Criteo",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 71,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     71,
@@ -6788,6 +7058,7 @@
     72,
     72,
     72,
+    71,
     71,
     71
    ],
@@ -6799,6 +7070,7 @@
     72,
     72,
     72,
+    71,
     71,
     71
    ],
@@ -6823,11 +7095,11 @@
    "company": "CrowdStrike",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 348,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 350,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     341,
@@ -6838,7 +7110,8 @@
     355,
     351,
     350,
-    348
+    348,
+    350
    ],
    "nonzero": [
     341,
@@ -6849,9 +7122,10 @@
     355,
     351,
     350,
-    348
+    348,
+    350
    ],
-   "typical": 348,
+   "typical": 349,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -6872,11 +7146,11 @@
    "company": "Darktrace",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 73,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     74,
@@ -6885,6 +7159,7 @@
     74,
     74,
     72,
+    73,
     73,
     73,
     73
@@ -6898,9 +7173,10 @@
     72,
     73,
     73,
+    73,
     73
    ],
-   "typical": 74,
+   "typical": 73,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -6948,9 +7224,9 @@
    "typical": 880,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
-   "err_runs": 0,
-   "err_since": "0001-01-01T00:00:00Z",
-   "last_err": "",
+   "err_runs": 1,
+   "err_since": "2026-10-13T21:50:24.909118952Z",
+   "last_err": "workday HP: skipped 2 malformed postings with missing externalPath (raw offsets [296 600])",
    "kind": "",
    "raised_at": "0001-01-01T00:00:00Z",
    "sent_at": "0001-01-01T00:00:00Z",
@@ -6966,11 +7242,11 @@
    "company": "Palo Alto Networks",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 1466,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 1459,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     1478,
@@ -6980,7 +7256,8 @@
     1479,
     1482,
     1480,
-    1466
+    1466,
+    1459
    ],
    "nonzero": [
     1478,
@@ -6990,7 +7267,8 @@
     1479,
     1482,
     1480,
-    1466
+    1466,
+    1459
    ],
    "typical": 1478,
    "zero_runs": 0,
@@ -7013,11 +7291,11 @@
    "company": "Postman",
    "src_type": "workday",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 27,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 26,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     29,
@@ -7027,7 +7305,8 @@
     29,
     27,
     27,
-    27
+    27,
+    26
    ],
    "nonzero": [
     29,
@@ -7037,7 +7316,8 @@
     29,
     27,
     27,
-    27
+    27,
+    26
    ],
    "typical": 29,
    "zero_runs": 0,
@@ -7060,11 +7340,11 @@
    "company": "Proofpoint",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 117,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     115,
@@ -7074,6 +7354,7 @@
     115,
     115,
     115,
+    117,
     117,
     117
    ],
@@ -7085,6 +7366,7 @@
     115,
     115,
     115,
+    117,
     117,
     117
    ],
@@ -7109,11 +7391,11 @@
    "company": "Salesforce",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 1530,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 1522,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     1533,
@@ -7123,7 +7405,8 @@
     1526,
     1523,
     1528,
-    1530
+    1530,
+    1522
    ],
    "nonzero": [
     1533,
@@ -7133,9 +7416,10 @@
     1526,
     1523,
     1528,
-    1530
+    1530,
+    1522
    ],
-   "typical": 1531,
+   "typical": 1530,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -7156,11 +7440,11 @@
    "company": "Semrush",
    "src_type": "workday",
    "first_fetch": "2026-10-11T22:08:05.755413941Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 17,
    "non_empty_days": 3,
-   "fetches": 8,
+   "fetches": 9,
    "baselined": false,
    "recent": [
     23,
@@ -7170,6 +7454,7 @@
     21,
     21,
     22,
+    17,
     17
    ],
    "nonzero": [
@@ -7180,6 +7465,7 @@
     21,
     21,
     22,
+    17,
     17
    ],
    "typical": 22,
@@ -7203,11 +7489,11 @@
    "company": "UserTesting (ex-UserZoom)",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
    "last_non_empty_n": 13,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     12,
@@ -7216,6 +7502,7 @@
     12,
     12,
     12,
+    13,
     13,
     13,
     13
@@ -7227,6 +7514,7 @@
     12,
     12,
     12,
+    13,
     13,
     13,
     13
@@ -7252,11 +7540,11 @@
    "company": "Workday",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 388,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 392,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     374,
@@ -7267,7 +7555,8 @@
     380,
     388,
     385,
-    388
+    388,
+    392
    ],
    "nonzero": [
     374,
@@ -7278,9 +7567,10 @@
     380,
     388,
     385,
-    388
+    388,
+    392
    ],
-   "typical": 374,
+   "typical": 377,
    "zero_runs": 0,
    "zero_since": "0001-01-01T00:00:00Z",
    "err_runs": 0,
@@ -7301,11 +7591,11 @@
    "company": "Zendesk",
    "src_type": "workday",
    "first_fetch": "2026-10-11T19:51:13.644573115Z",
-   "last_ok": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty": "2026-10-13T17:08:36.331965674Z",
-   "last_non_empty_n": 139,
+   "last_ok": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty": "2026-10-13T21:50:24.909118952Z",
+   "last_non_empty_n": 140,
    "non_empty_days": 3,
-   "fetches": 9,
+   "fetches": 10,
    "baselined": false,
    "recent": [
     136,
@@ -7316,7 +7606,8 @@
     141,
     141,
     141,
-    139
+    139,
+    140
    ],
    "nonzero": [
     136,
@@ -7327,7 +7618,8 @@
     141,
     141,
     141,
-    139
+    139,
+    140
    ],
    "typical": 138,
    "zero_runs": 0,
@@ -10231,6 +10523,12 @@
   "matched": false,
   "notified": false
  },
+ "ashby/checkout.com/93224ea4-50b2-45b6-b4dc-d878e3f15452": {
+  "first_seen": "2026-10-13T21:50:25.843077044Z",
+  "title": "Checkout.com: Front end Engineer ",
+  "matched": false,
+  "notified": false
+ },
  "ashby/checkout.com/94034683-2cdc-4730-b1b9-5d96ce82014b": {
   "first_seen": "2026-10-11T19:54:22.45219962Z",
   "title": "Checkout.com: Senior Manager, Regulatory Inspections and Strategic Response",
@@ -13051,6 +13349,12 @@
   "matched": false,
   "notified": false
  },
+ "ashby/elevenlabs/a435a526-e2b3-4fcf-a732-0e70864178bb": {
+  "first_seen": "2026-10-13T21:50:26.866319346Z",
+  "title": "ElevenLabs: Finance Systems Lead",
+  "matched": false,
+  "notified": false
+ },
  "ashby/elevenlabs/a571b8e4-8176-4e31-aab6-2287ee810236": {
   "first_seen": "2026-10-11T19:54:29.595031997Z",
   "title": "ElevenLabs: Account Manager - India ",
@@ -13306,6 +13610,12 @@
  "ashby/elevenlabs/ede30aef-bc40-48b3-ae75-59cdc5d075b9": {
   "first_seen": "2026-10-11T19:54:29.596370591Z",
   "title": "ElevenLabs: Value Strategist",
+  "matched": false,
+  "notified": false
+ },
+ "ashby/elevenlabs/eec0ee0e-ad68-47af-a0a8-8d2191aee4ba": {
+  "first_seen": "2026-10-13T21:50:26.866285332Z",
+  "title": "ElevenLabs: FP\u0026A Lead",
   "matched": false,
   "notified": false
  },
@@ -13816,6 +14126,12 @@
  "ashby/hostinger/cff9570c-b890-48a9-b7ba-f150305013fc": {
   "first_seen": "2026-10-11T19:54:29.449069864Z",
   "title": "Hostinger: Video Team Lead (Creative Lead) | Based in Europe",
+  "matched": false,
+  "notified": false
+ },
+ "ashby/hostinger/d0614fcb-7b9b-490c-8ff1-2d6700b90e8a": {
+  "first_seen": "2026-10-13T21:50:26.688905039Z",
+  "title": "Hostinger: Senior Google Ads Manager | Based in Lithuania",
   "matched": false,
   "notified": false
  },
@@ -16507,6 +16823,12 @@
   "matched": false,
   "notified": false
  },
+ "ashby/nord-security/c2a3c96d-2fcc-470e-8a0e-81fca9c35e6b": {
+  "first_seen": "2026-10-13T21:50:25.780832822Z",
+  "title": "Nord Security: Commercial \u0026 Investment Strategy Analyst | Junior-Mid | Saily",
+  "matched": false,
+  "notified": false
+ },
  "ashby/nord-security/c3ab4dee-6882-4b4b-896a-c558644f7f1a": {
   "first_seen": "2026-10-11T19:54:22.368175438Z",
   "title": "Nord Security: Product Owner | Mid-Senior | Quality of Service | NordVPN",
@@ -17095,6 +17417,12 @@
   "matched": false,
   "notified": false
  },
+ "ashby/openai/186c3f38-2739-4998-ac8b-c21d237fec72": {
+  "first_seen": "2026-10-13T21:50:26.807592388Z",
+  "title": "OpenAI: Procurement Coordinator",
+  "matched": false,
+  "notified": false
+ },
  "ashby/openai/18e64608-5881-4b8f-b5cf-abd09a8ff086": {
   "first_seen": "2026-10-11T19:54:29.556227786Z",
   "title": "OpenAI:  APAC Vendor Lead, Ads - Singapore",
@@ -17530,6 +17858,12 @@
  "ashby/openai/2b9fa1aa-d844-4aa5-a762-6ac9bbb27d33": {
   "first_seen": "2026-10-11T19:54:29.55046426Z",
   "title": "OpenAI: Growth - Digital Marketing (Enterprise)",
+  "matched": false,
+  "notified": false
+ },
+ "ashby/openai/2bdd1b8b-2883-40fb-b006-583959ad4c5f": {
+  "first_seen": "2026-10-13T21:50:26.80760417Z",
+  "title": "OpenAI: Data Program Manager, Science",
   "matched": false,
   "notified": false
  },
@@ -18436,6 +18770,12 @@
  "ashby/openai/5c579ec6-be3a-409b-8ae4-9e3f46af8288": {
   "first_seen": "2026-10-11T19:54:29.545801363Z",
   "title": "OpenAI: Strategic Technology Negotiations Lead",
+  "matched": false,
+  "notified": false
+ },
+ "ashby/openai/5c869fa0-fe05-42b3-ab94-1f6218b1ccf3": {
+  "first_seen": "2026-10-13T21:50:26.807639617Z",
+  "title": "OpenAI: Strategic Delivery Lead, Critical Infrastructure",
   "matched": false,
   "notified": false
  },
@@ -19399,6 +19739,12 @@
   "matched": false,
   "notified": false
  },
+ "ashby/openai/8ad567c5-70ca-46bf-85ae-eb5bbc8a2a39": {
+  "first_seen": "2026-10-13T21:50:26.807686625Z",
+  "title": "OpenAI: Global Head of Education GTM",
+  "matched": false,
+  "notified": false
+ },
  "ashby/openai/8c460221-77ba-4120-b74e-3b1ad7c82818": {
   "first_seen": "2026-10-11T19:54:29.550017111Z",
   "title": "OpenAI: IT Support Dublin, EMEA Regional Lead",
@@ -19876,6 +20222,12 @@
  "ashby/openai/9fac9e21-ee83-487a-a537-297a0666a85d": {
   "first_seen": "2026-10-11T19:54:29.549565376Z",
   "title": "OpenAI: Growth Marketing Manager - Web \u0026 Organic, SMB Ads",
+  "matched": false,
+  "notified": false
+ },
+ "ashby/openai/a01fc9ed-de08-4326-9206-4ee3f08000dc": {
+  "first_seen": "2026-10-13T21:50:26.807503041Z",
+  "title": "OpenAI: Machine Learning Engineer, Implicit Signals",
   "matched": false,
   "notified": false
  },
@@ -20527,6 +20879,12 @@
   "matched": false,
   "notified": false
  },
+ "ashby/openai/c36abd4d-09f0-4af9-b472-45b64848886f": {
+  "first_seen": "2026-10-13T21:50:26.807658122Z",
+  "title": "OpenAI: Infrastructure Communications Lead",
+  "matched": false,
+  "notified": false
+ },
  "ashby/openai/c414f15f-60c4-40b5-a896-d2ad6c7f4415": {
   "first_seen": "2026-10-11T19:54:29.543835698Z",
   "title": "OpenAI: Senior Technical Program Manager - Security",
@@ -20626,6 +20984,12 @@
  "ashby/openai/c8d3feee-2b6a-4ef7-b8c0-90bbd1381c1f": {
   "first_seen": "2026-10-11T19:54:29.553256374Z",
   "title": "OpenAI: Applied AI Engineer, Codex",
+  "matched": false,
+  "notified": false
+ },
+ "ashby/openai/c95b87cf-c00d-48b7-a357-aa4f7baa2467": {
+  "first_seen": "2026-10-13T21:50:26.807360824Z",
+  "title": "OpenAI: HR Business Partner",
   "matched": false,
   "notified": false
  },
@@ -20764,6 +21128,12 @@
  "ashby/openai/d00f2e0a-af1f-4d21-b9e8-129b079b2c42": {
   "first_seen": "2026-10-11T19:54:29.556617938Z",
   "title": "OpenAI: Account Director, Large Enterprise - Tokyo",
+  "matched": false,
+  "notified": false
+ },
+ "ashby/openai/d039c0ef-ab36-4d40-bc5e-5c70295b2eb7": {
+  "first_seen": "2026-10-13T21:50:26.807669413Z",
+  "title": "OpenAI: Applied AI Engineer, Digital Natives",
   "matched": false,
   "notified": false
  },
@@ -21286,6 +21656,12 @@
  "ashby/openai/eb4e4757-94b6-4c7d-a3ba-35fad40c0859": {
   "first_seen": "2026-10-11T19:54:29.551587802Z",
   "title": "OpenAI: Account Director, Large Enterprise",
+  "matched": false,
+  "notified": false
+ },
+ "ashby/openai/eba9c8bc-dc0a-4666-a9c8-356d05b7daf5": {
+  "first_seen": "2026-10-13T21:50:26.807623006Z",
+  "title": "OpenAI: Software Engineer, Cloud Computer",
   "matched": false,
   "notified": false
  },
@@ -22012,6 +22388,12 @@
  "ashby/perk/39dc5543-3d5a-4f85-9c96-93ef998aec61": {
   "first_seen": "2026-10-11T19:54:28.441892965Z",
   "title": "Perk (ex-TravelPerk): Senior Business Travel Consultant - German speaking",
+  "matched": false,
+  "notified": false
+ },
+ "ashby/perk/3b32d851-497b-4cc3-91cd-0ea3090cf578": {
+  "first_seen": "2026-10-13T21:50:26.08630527Z",
+  "title": "Perk (ex-TravelPerk): Account Executive - UKI",
   "matched": false,
   "notified": false
  },
@@ -22951,6 +23333,12 @@
   "matched": false,
   "notified": false
  },
+ "ashby/preply/1551c8ce-87eb-4160-9b10-dcb91e023f3a": {
+  "first_seen": "2026-10-13T21:50:26.147980195Z",
+  "title": "Preply: Senior ML Platform Engineer (Agentic Platform)",
+  "matched": false,
+  "notified": false
+ },
  "ashby/preply/19192191-ca03-40e9-8527-26c8412da985": {
   "first_seen": "2026-10-11T19:54:28.548919822Z",
   "title": "Preply: Sales Development Representative (Italian) ",
@@ -23161,6 +23549,12 @@
   "matched": false,
   "notified": false
  },
+ "ashby/preply/5c42eceb-a0eb-4dfd-9e22-7e532896998e": {
+  "first_seen": "2026-10-13T21:50:26.147862815Z",
+  "title": "Preply: Senior ML Platform Engineer (GenAI Platform)",
+  "matched": false,
+  "notified": false
+ },
  "ashby/preply/5ee04039-2ec0-4667-8482-a14597b2f5dc": {
   "first_seen": "2026-10-11T19:54:28.548042935Z",
   "title": "Preply: Director of SEM",
@@ -23230,6 +23624,12 @@
  "ashby/preply/74635d62-50d1-4693-a088-b466964e9689": {
   "first_seen": "2026-10-11T19:54:28.547903965Z",
   "title": "Preply: Senior II Full-Stack Engineer (back-end heavy)",
+  "matched": false,
+  "notified": false
+ },
+ "ashby/preply/74dad022-8185-4be2-be65-9b17694457e0": {
+  "first_seen": "2026-10-13T21:50:26.148000773Z",
+  "title": "Preply: Senior ML Platform Engineer (Agentic Platform)",
   "matched": false,
   "notified": false
  },
@@ -23473,6 +23873,12 @@
   "matched": false,
   "notified": false
  },
+ "ashby/preply/ba41e639-e2ec-4d65-80ed-53fd85a04136": {
+  "first_seen": "2026-10-13T21:50:26.147938516Z",
+  "title": "Preply: Senior ML Platform Engineer (GenAI Platform)",
+  "matched": false,
+  "notified": false
+ },
  "ashby/preply/c0af4bdc-108c-405c-9425-2a15e9dc4c94": {
   "first_seen": "2026-10-11T19:54:28.547243982Z",
   "title": "Preply:  Senior Analytics Engineer ",
@@ -23482,6 +23888,12 @@
  "ashby/preply/c34b2e52-8e45-4ea2-87bd-4231885b2752": {
   "first_seen": "2026-10-11T19:54:28.547925113Z",
   "title": "Preply: Senior II Security Engineer - Platform",
+  "matched": false,
+  "notified": false
+ },
+ "ashby/preply/c538a35a-32c5-4003-b296-8c1890347251": {
+  "first_seen": "2026-10-13T21:50:26.147916936Z",
+  "title": "Preply: Senior ML Platform Engineer (GenAI Platform)",
   "matched": false,
   "notified": false
  },
@@ -23506,6 +23918,12 @@
  "ashby/preply/ce2bd28c-7f8f-441c-8ddd-376b38e9edf2": {
   "first_seen": "2026-10-11T19:54:28.548330511Z",
   "title": "Preply: Customer Care Team Lead",
+  "matched": false,
+  "notified": false
+ },
+ "ashby/preply/cfc8e552-8be0-4553-857f-b7a5db02bf3f": {
+  "first_seen": "2026-10-13T21:50:26.147959516Z",
+  "title": "Preply: Senior ML Platform Engineer (Agentic Platform)",
   "matched": false,
   "notified": false
  },
@@ -23953,6 +24371,12 @@
   "matched": false,
   "notified": false
  },
+ "ashby/sentry/c1479d26-cf69-48ff-8424-c42ce05a8698": {
+  "first_seen": "2026-10-13T21:50:25.032408641Z",
+  "title": "Sentry: Senior Software Engineer, Foundational Storage",
+  "matched": false,
+  "notified": false
+ },
  "ashby/sentry/c3ed6481-f031-4fe9-a456-775b7b3d2eda": {
   "first_seen": "2026-10-11T19:51:13.670318001Z",
   "title": "Sentry: Staff Software Engineer, Issues",
@@ -23974,6 +24398,12 @@
  "ashby/sentry/c8f08641-a748-44fd-80b9-d3283848606b": {
   "first_seen": "2026-10-11T19:51:13.67033957Z",
   "title": "Sentry: Senior Technical Customer Success Manager ",
+  "matched": false,
+  "notified": false
+ },
+ "ashby/sentry/ccbee884-5fc1-492e-ba18-df568587ccc2": {
+  "first_seen": "2026-10-13T21:50:25.032361823Z",
+  "title": "Sentry: Senior Software Engineer, Foundational Storage",
   "matched": false,
   "notified": false
  },
@@ -24559,6 +24989,12 @@
   "matched": false,
   "notified": false
  },
+ "ashby/snowflake/35dfd8bf-a458-4c9c-a5d2-0b5d487b9640": {
+  "first_seen": "2026-10-13T21:50:26.325211548Z",
+  "title": "Snowflake: Staff Software Engineer - Ingestion ",
+  "matched": false,
+  "notified": false
+ },
  "ashby/snowflake/37033502-bd37-4f77-a92e-9b7934998857": {
   "first_seen": "2026-10-11T19:54:28.741369835Z",
   "title": "Snowflake: Senior Compliance Analyst, Governance Programs",
@@ -24586,6 +25022,12 @@
  "ashby/snowflake/3b88b373-39b0-472c-99ec-410efdf37a15": {
   "first_seen": "2026-10-11T19:54:28.739575571Z",
   "title": "Snowflake: Staff Software Engineer - FDB Platform",
+  "matched": false,
+  "notified": false
+ },
+ "ashby/snowflake/3c565761-4ce8-40f4-a346-1997b117afbc": {
+  "first_seen": "2026-10-13T21:50:26.325229171Z",
+  "title": "Snowflake: Senior Product Manager – Agent Marketplace",
   "matched": false,
   "notified": false
  },
@@ -24676,6 +25118,12 @@
  "ashby/snowflake/453c015f-5266-4d88-844e-51934405f263": {
   "first_seen": "2026-10-11T19:54:28.738698632Z",
   "title": "Snowflake: Senior Education Sales Manager",
+  "matched": false,
+  "notified": false
+ },
+ "ashby/snowflake/4557ced6-d472-45c7-ab02-15c2024e8936": {
+  "first_seen": "2026-10-13T21:50:26.325070464Z",
+  "title": "Snowflake: Business Intelligence Analyst",
   "matched": false,
   "notified": false
  },
@@ -27355,6 +27803,12 @@
   "matched": false,
   "notified": false
  },
+ "ashby/temporal/a60877d2-e825-4e0f-9f36-230352a9f193": {
+  "first_seen": "2026-10-13T21:50:26.506338673Z",
+  "title": "Temporal: Senior Software Engineer, Cloud Capacity",
+  "matched": false,
+  "notified": false
+ },
  "ashby/temporal/a6db83c0-46c3-415c-8161-621a77781d38": {
   "first_seen": "2026-10-11T19:54:28.888734077Z",
   "title": "Temporal: Senior Software Engineer, Open Source Server",
@@ -27484,6 +27938,12 @@
  "ashby/temporal/ea7a9e97-de00-4603-bf85-4da5b3749270": {
   "first_seen": "2026-10-11T19:54:28.888805247Z",
   "title": "Temporal: Staff Product Manager, AI Ecosystem",
+  "matched": false,
+  "notified": false
+ },
+ "ashby/temporal/ef2b1521-ebbd-45bc-98c8-2cc740c7207b": {
+  "first_seen": "2026-10-13T21:50:26.506306162Z",
+  "title": "Temporal: Senior Director, Global Field Operations ",
   "matched": false,
   "notified": false
  },
@@ -29263,6 +29723,12 @@
   "matched": false,
   "notified": false
  },
+ "atlassian/26959": {
+  "first_seen": "2026-10-13T21:50:26.568836521Z",
+  "title": "Atlassian: Senior Brand Strategist",
+  "matched": false,
+  "notified": false
+ },
  "atlassian/26965": {
   "first_seen": "2026-10-11T19:54:29.003495936Z",
   "title": "Atlassian: Principal Technical Program Manager (Analytics or AI/ML Platform)",
@@ -30949,6 +31415,12 @@
   "matched": false,
   "notified": false
  },
+ "deel/4e78fd34-f324-42c5-bd71-a290fa5c4933": {
+  "first_seen": "2026-10-13T21:50:28.882418299Z",
+  "title": "Deel: Devsecops Engineer",
+  "matched": false,
+  "notified": false
+ },
  "deel/51c6091e-1f2d-4fac-8b6e-b48c4dac7621": {
   "first_seen": "2026-10-11T22:08:39.256630907Z",
   "title": "Deel: Sales Development Representative, SMB I China",
@@ -31000,6 +31472,12 @@
  "deel/55f748da-998f-47e1-bf9e-8a61d43cb02e": {
   "first_seen": "2026-10-11T22:08:39.257123992Z",
   "title": "Deel: Storytelling Communications Manager",
+  "matched": false,
+  "notified": false
+ },
+ "deel/56c0a201-45b4-41c5-9b0c-9f8d7ec37144": {
+  "first_seen": "2026-10-13T21:50:28.882326427Z",
+  "title": "Deel: Account Executive, Expansion, SMB | DACH",
   "matched": false,
   "notified": false
  },
@@ -31267,6 +31745,12 @@
   "matched": false,
   "notified": false
  },
+ "deel/8056f427-7de5-4a39-800d-ab878e763350": {
+  "first_seen": "2026-10-13T21:50:28.882319073Z",
+  "title": "Deel: Solutions Engineer, Global Payroll | LATAM",
+  "matched": false,
+  "notified": false
+ },
  "deel/81afcd8f-b232-4276-80ea-e514810ac5cb": {
   "first_seen": "2026-10-11T22:08:39.256364114Z",
   "title": "Deel: Senior Product Operations Manager, Fraud",
@@ -31399,6 +31883,12 @@
   "matched": false,
   "notified": false
  },
+ "deel/9ca7d83b-0a70-428d-8258-50f2913dcef1": {
+  "first_seen": "2026-10-13T21:50:28.88239773Z",
+  "title": "Deel: Principal Product Designer",
+  "matched": false,
+  "notified": false
+ },
  "deel/9cdfbe8f-e251-4bda-8098-e169420f2cd6": {
   "first_seen": "2026-10-11T22:08:39.254705657Z",
   "title": "Deel: Sales Development Representative, Akai | UKI",
@@ -31474,6 +31964,12 @@
  "deel/a71616b5-5288-4d78-9a9e-8540b948ff7d": {
   "first_seen": "2026-10-11T22:08:39.257084613Z",
   "title": "Deel: Team Lead, GTM Systems Business Analyst",
+  "matched": false,
+  "notified": false
+ },
+ "deel/a9861a39-d5c5-4cdc-aafa-d67dcb822eba": {
+  "first_seen": "2026-10-13T21:50:28.88224815Z",
+  "title": "Deel: Senior Regional Marketing Manager, France",
   "matched": false,
   "notified": false
  },
@@ -31699,6 +32195,12 @@
   "matched": false,
   "notified": false
  },
+ "deel/c865d568-2d76-42f2-a639-4733e713c2f4": {
+  "first_seen": "2026-10-13T21:50:28.882364187Z",
+  "title": "Deel: Account Executive, Expansion, SMB | DACH",
+  "matched": false,
+  "notified": false
+ },
  "deel/c892baed-cc5f-4cab-a634-55c484eee9c6": {
   "first_seen": "2026-10-11T22:08:39.255598297Z",
   "title": "Deel: Senior Accounting Manager",
@@ -31774,6 +32276,12 @@
  "deel/cebf2112-dc83-4044-ad98-8bf252ab1e00": {
   "first_seen": "2026-10-11T22:08:39.257250123Z",
   "title": "Deel: Payroll Expert, Project Temporary",
+  "matched": false,
+  "notified": false
+ },
+ "deel/ceed2112-22c4-4f12-abb1-8f70371cf58e": {
+  "first_seen": "2026-10-13T21:50:28.882345693Z",
+  "title": "Deel: Account Executive, Expansion, SMB | DACH",
   "matched": false,
   "notified": false
  },
@@ -31933,6 +32441,12 @@
   "matched": false,
   "notified": false
  },
+ "deel/e40aba08-10c2-4057-8dd3-43dea844f198": {
+  "first_seen": "2026-10-13T21:50:28.882279889Z",
+  "title": "Deel: Principal Creative Director, AI Video",
+  "matched": false,
+  "notified": false
+ },
  "deel/e48f1fed-55ed-4c01-abeb-249f92262c24": {
   "first_seen": "2026-10-11T22:08:39.256898261Z",
   "title": "Deel: Operations Manager | Payroll Solutions",
@@ -31954,6 +32468,12 @@
  "deel/eb1dd344-5e04-4d25-b060-e73a84f5b300": {
   "first_seen": "2026-10-11T22:08:39.256264263Z",
   "title": "Deel: Senior Partnerships Manager",
+  "matched": false,
+  "notified": false
+ },
+ "deel/eb59c7d5-f477-4ec1-a2df-a447d6ec6eee": {
+  "first_seen": "2026-10-13T21:50:28.882293405Z",
+  "title": "Deel: Site Reliability Engineer",
   "matched": false,
   "notified": false
  },
@@ -39229,6 +39749,12 @@
   "matched": false,
   "notified": false
  },
+ "greenhouse/anthropic/5442842008": {
+  "first_seen": "2026-10-13T21:50:26.748584834Z",
+  "title": "Anthropic: Internal Communications Manager: GTM",
+  "matched": false,
+  "notified": false
+ },
  "greenhouse/anthropic/5442934008": {
   "first_seen": "2026-10-11T19:54:29.511200511Z",
   "title": "Anthropic: Manager, Applied AI Engineering (Megas) ",
@@ -39472,6 +39998,12 @@
  "greenhouse/anthropic/5450479008": {
   "first_seen": "2026-10-13T17:08:39.75898442Z",
   "title": "Anthropic: IT Systems Engineer, M\u0026A",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/anthropic/5451134008": {
+  "first_seen": "2026-10-13T21:50:26.748658833Z",
+  "title": "Anthropic: Partner Marketing Lead, Resellers",
   "matched": false,
   "notified": false
  },
@@ -45931,6 +46463,12 @@
   "matched": false,
   "notified": false
  },
+ "greenhouse/cloudflare/8264695": {
+  "first_seen": "2026-10-13T21:50:25.340385321Z",
+  "title": "Cloudflare: Security Engineer, Applied Research \u0026 Labs",
+  "matched": false,
+  "notified": false
+ },
  "greenhouse/cloudflare/8265704": {
   "first_seen": "2026-10-11T19:54:01.558820338Z",
   "title": "Cloudflare: Senior Forward Deployed Engineer",
@@ -45982,6 +46520,36 @@
  "greenhouse/cloudflare/8274112": {
   "first_seen": "2026-10-12T19:48:03.056648703Z",
   "title": "Cloudflare: Senior Majors Account Executive (Meta) - San Francisco/Bay Area",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/cloudflare/8274341": {
+  "first_seen": "2026-10-13T21:50:25.340462696Z",
+  "title": "Cloudflare: Senior Customer Engineer AI/ Start Up's",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/cloudflare/8275432": {
+  "first_seen": "2026-10-13T21:50:25.340442658Z",
+  "title": "Cloudflare: Senior Account Executive, Startups (Southeast)",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/cloudflare/8275434": {
+  "first_seen": "2026-10-13T21:50:25.340424484Z",
+  "title": "Cloudflare: Senior Account Executive, Startups (Southeast)",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/cloudflare/8276155": {
+  "first_seen": "2026-10-13T21:50:25.340667369Z",
+  "title": "Cloudflare: Systems Engineer, Browser Isolation",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/cloudflare/8279346": {
+  "first_seen": "2026-10-13T21:50:25.340692557Z",
+  "title": "Cloudflare: Territory Account Executive, Toronto",
   "matched": false,
   "notified": false
  },
@@ -46101,6 +46669,12 @@
  },
  "greenhouse/contentful/8278596": {
   "first_seen": "2026-10-13T17:08:39.470719612Z",
+  "title": "Contentful: Enterprise Account Executive",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/contentful/8278600": {
+  "first_seen": "2026-10-13T21:50:26.62778274Z",
   "title": "Contentful: Enterprise Account Executive",
   "matched": false,
   "notified": false
@@ -49759,6 +50333,12 @@
   "matched": false,
   "notified": false
  },
+ "greenhouse/databricks/8657553002": {
+  "first_seen": "2026-10-13T21:50:26.384149522Z",
+  "title": "Databricks: Senior Specialist Solutions Engineer (Infrastructure \u0026 Platform)",
+  "matched": false,
+  "notified": false
+ },
  "greenhouse/databricks/8657746002": {
   "first_seen": "2026-10-11T19:54:28.767504521Z",
   "title": "Databricks: Solutions Architect (Pre-sales) - Utilities/Energy",
@@ -51529,6 +52109,12 @@
   "matched": false,
   "notified": false
  },
+ "greenhouse/databricks/8876388002": {
+  "first_seen": "2026-10-13T21:50:26.384189136Z",
+  "title": "Databricks: Solutions Architect - FSI",
+  "matched": false,
+  "notified": false
+ },
  "greenhouse/databricks/8876599002": {
   "first_seen": "2026-10-11T19:54:28.767498509Z",
   "title": "Databricks: Solutions Architect - MFG - West",
@@ -51538,6 +52124,12 @@
  "greenhouse/databricks/8876675002": {
   "first_seen": "2026-10-11T19:54:28.771383533Z",
   "title": "Databricks: Sr. Product Manager, Lakebase/Lakehouse",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/databricks/8877962002": {
+  "first_seen": "2026-10-13T21:50:26.384176262Z",
+  "title": "Databricks: Solutions Architect",
   "matched": false,
   "notified": false
  },
@@ -51586,6 +52178,18 @@
  "greenhouse/databricks/8882379002": {
   "first_seen": "2026-10-12T19:48:05.304617725Z",
   "title": "Databricks: Director, Enterprise Sales, Public Sector",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/databricks/8884753002": {
+  "first_seen": "2026-10-13T21:50:26.384031471Z",
+  "title": "Databricks: Senior Forward Deployed Engineer (Technical Data Architect)",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/databricks/8885667002": {
+  "first_seen": "2026-10-13T21:50:26.384322877Z",
+  "title": "Databricks: Technical Business Development Manager, Startup \u0026 VC Ecosystem",
   "matched": false,
   "notified": false
  },
@@ -51796,6 +52400,12 @@
  "greenhouse/datadog/6703351": {
   "first_seen": "2026-10-11T19:51:13.649304957Z",
   "title": "DataDog: Enterprise Sales Engineer",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/datadog/6741571": {
+  "first_seen": "2026-10-13T21:50:24.909450533Z",
+  "title": "DataDog: Sales Development Representative - Boston",
   "matched": false,
   "notified": false
  },
@@ -52336,6 +52946,12 @@
  "greenhouse/datadog/7722122": {
   "first_seen": "2026-10-11T19:51:13.650824108Z",
   "title": "DataDog: Partner Solutions Architect (EMEA)",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/datadog/7728298": {
+  "first_seen": "2026-10-13T21:50:24.909313376Z",
+  "title": "DataDog: People Solutions Coordinator (NYC)",
   "matched": false,
   "notified": false
  },
@@ -53272,6 +53888,12 @@
  "greenhouse/datadog/8139279": {
   "first_seen": "2026-10-11T19:51:13.652880677Z",
   "title": "DataDog: Staff Engineer, Compute",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/datadog/8139396": {
+  "first_seen": "2026-10-13T21:50:24.909511398Z",
+  "title": "DataDog: Sales Development Representative (LATAM - Portuguese Speaking)",
   "matched": false,
   "notified": false
  },
@@ -54262,6 +54884,12 @@
  "greenhouse/datadog/8278850": {
   "first_seen": "2026-10-13T17:08:36.392595764Z",
   "title": "DataDog: Senior Software Engineer - Distributed Systems (Continuous Profiler)",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/datadog/8279173": {
+  "first_seen": "2026-10-13T21:50:24.909390741Z",
+  "title": "DataDog: Research Manager - Post-Training for Agents",
   "matched": false,
   "notified": false
  },
@@ -55660,6 +56288,12 @@
  "greenhouse/elastic/8007202": {
   "first_seen": "2026-10-11T19:51:13.660585682Z",
   "title": "Elastic: Customer Architect",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/elastic/8011781": {
+  "first_seen": "2026-10-13T21:50:24.972121387Z",
+  "title": "Elastic: Inside Account Executive (Hunter)",
   "matched": false,
   "notified": false
  },
@@ -58081,6 +58715,18 @@
   "matched": false,
   "notified": false
  },
+ "greenhouse/feedzai/8279201": {
+  "first_seen": "2026-10-13T21:50:25.962037044Z",
+  "title": "Feedzai: Head of Global Public Relations",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/feedzai/8279244": {
+  "first_seen": "2026-10-13T21:50:25.961984085Z",
+  "title": "Feedzai: Head of Global Public Relations",
+  "matched": false,
+  "notified": false
+ },
  "greenhouse/gitlab/8396674002": {
   "first_seen": "2026-10-11T19:54:28.675525599Z",
   "title": "GitLab: Manager, Solutions Architects - San Francisco ",
@@ -60208,6 +60854,18 @@
  "greenhouse/honeycomb/5436651008": {
   "first_seen": "2026-10-11T19:51:13.674870009Z",
   "title": "Honeycomb: Senior Technical Recruiter",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/honeycomb/5443686008": {
+  "first_seen": "2026-10-13T21:50:25.096998692Z",
+  "title": "Honeycomb: VP, Engineering",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/honeycomb/5443688008": {
+  "first_seen": "2026-10-13T21:50:25.097015093Z",
+  "title": "Honeycomb: VP, Engineering",
   "matched": false,
   "notified": false
  },
@@ -64021,6 +64679,12 @@
   "matched": false,
   "notified": false
  },
+ "greenhouse/mongodb/8224682": {
+  "first_seen": "2026-10-13T21:50:26.266358474Z",
+  "title": "MongoDB: VP \u0026 GM, Public Sector",
+  "matched": false,
+  "notified": false
+ },
  "greenhouse/mongodb/8226033": {
   "first_seen": "2026-10-11T19:54:28.698510852Z",
   "title": "MongoDB: Sales Support Associate",
@@ -64084,6 +64748,12 @@
  "greenhouse/mongodb/8230396": {
   "first_seen": "2026-10-11T19:54:28.698269709Z",
   "title": "MongoDB: Manager, Workplace",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/mongodb/8230800": {
+  "first_seen": "2026-10-13T21:50:26.266300886Z",
+  "title": "MongoDB: Senior Solutions Architect (Pre-Sales)",
   "matched": false,
   "notified": false
  },
@@ -65254,6 +65924,12 @@
  "greenhouse/ocadogroup/5003224101": {
   "first_seen": "2026-10-13T17:08:38.84181968Z",
   "title": "Ocado Technology: Senior EPM Systems Manager",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/ocadogroup/5004870101": {
+  "first_seen": "2026-10-13T21:50:26.207316996Z",
+  "title": "Ocado Technology: Senior Maintenance Engineer (Night Shift)",
   "matched": false,
   "notified": false
  },
@@ -67405,6 +68081,12 @@
   "matched": false,
   "notified": false
  },
+ "greenhouse/okta/8248575": {
+  "first_seen": "2026-10-13T21:50:28.645187461Z",
+  "title": "Okta: Enterprise Account Executive, Auth0",
+  "matched": false,
+  "notified": false
+ },
  "greenhouse/okta/8248800": {
   "first_seen": "2026-10-11T19:56:09.207807222Z",
   "title": "Okta: Enterprise Account Executive, Mumbai",
@@ -67990,6 +68672,12 @@
  "greenhouse/pagerduty/6216233004": {
   "first_seen": "2026-10-11T19:51:13.686451646Z",
   "title": "PagerDuty: Sr. Product \u0026 Design Operations Manager",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/pagerduty/6217534004": {
+  "first_seen": "2026-10-13T21:50:25.160044299Z",
+  "title": "PagerDuty: Sales Development Representative",
   "matched": false,
   "notified": false
  },
@@ -69955,6 +70643,36 @@
   "matched": false,
   "notified": false
  },
+ "greenhouse/sentinellabs/8017568003": {
+  "first_seen": "2026-10-13T21:50:28.704095018Z",
+  "title": "SentinelOne: Senior Manager, Solutions Engineering, MSSP",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/sentinellabs/8017779003": {
+  "first_seen": "2026-10-13T21:50:28.704193242Z",
+  "title": "SentinelOne: Staff Solutions Engineer, MSSP Ecosystem Partner",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/sentinellabs/8017832003": {
+  "first_seen": "2026-10-13T21:50:28.70419743Z",
+  "title": "SentinelOne: Staff Solutions Engineer, MSSP Partner",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/sentinellabs/8017858003": {
+  "first_seen": "2026-10-13T21:50:28.704154189Z",
+  "title": "SentinelOne: Senior Solutions Engineer, MSSP Partner",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/sentinellabs/8017884003": {
+  "first_seen": "2026-10-13T21:50:28.704148889Z",
+  "title": "SentinelOne: Senior Solutions Engineer, MSSP Ecosystem Partner",
+  "matched": false,
+  "notified": false
+ },
  "greenhouse/sentinellabs/8026507003": {
   "first_seen": "2026-10-12T09:44:34.225077559Z",
   "title": "SentinelOne: Professional Services Architect",
@@ -70780,6 +71498,12 @@
  "greenhouse/stripe/7767222": {
   "first_seen": "2026-10-11T19:54:22.485259204Z",
   "title": "Stripe: Manager, Technical Account Management",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/stripe/7769005": {
+  "first_seen": "2026-10-13T21:50:25.903117916Z",
+  "title": "Stripe: Engineering Manager, Terminal",
   "matched": false,
   "notified": false
  },
@@ -73213,6 +73937,12 @@
   "matched": false,
   "notified": false
  },
+ "greenhouse/stripe/8180254": {
+  "first_seen": "2026-10-13T21:50:25.903224376Z",
+  "title": "Stripe: Partner Development Manager, Ecosystem Partnerships",
+  "matched": false,
+  "notified": false
+ },
  "greenhouse/stripe/8180536": {
   "first_seen": "2026-10-11T19:54:22.483178816Z",
   "title": "Stripe: Engineering Manager, Billing Products",
@@ -74611,6 +75341,12 @@
   "matched": false,
   "notified": false
  },
+ "greenhouse/stripe/8262027": {
+  "first_seen": "2026-10-13T21:50:25.903265082Z",
+  "title": "Stripe: People Consultant",
+  "matched": false,
+  "notified": false
+ },
  "greenhouse/stripe/8262029": {
   "first_seen": "2026-10-11T19:54:22.484410772Z",
   "title": "Stripe: Head of Technical Account Management, EMEA",
@@ -74728,6 +75464,12 @@
  "greenhouse/stripe/8275513": {
   "first_seen": "2026-10-13T17:08:38.148379504Z",
   "title": "Stripe: Partner Development Manager, Strategic Payment Partnerships",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/stripe/8279202": {
+  "first_seen": "2026-10-13T21:50:25.903363096Z",
+  "title": "Stripe: Specialist Solutions Architecture, Link",
   "matched": false,
   "notified": false
  },
@@ -77443,6 +78185,18 @@
   "matched": false,
   "notified": false
  },
+ "greenhouse/tines/6223310004": {
+  "first_seen": "2026-10-13T21:50:25.400698513Z",
+  "title": "Tines: Senior Manager, Professional Services Engineering",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/tines/6223362004": {
+  "first_seen": "2026-10-13T21:50:25.400759697Z",
+  "title": "Tines: Senior Security Operations Engineer",
+  "matched": false,
+  "notified": false
+ },
  "greenhouse/truelayer/4906393101": {
   "first_seen": "2026-10-11T19:54:22.562043359Z",
   "title": "TrueLayer: Customer Success Manager - iGaming",
@@ -77632,6 +78386,12 @@
  "greenhouse/twilio/8007455": {
   "first_seen": "2026-10-11T19:54:28.795010888Z",
   "title": "Twilio: Machine Learning Engineer",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/twilio/8009057": {
+  "first_seen": "2026-10-13T21:50:26.445835916Z",
+  "title": "Twilio: Software Engineer L3",
   "matched": false,
   "notified": false
  },
@@ -78181,6 +78941,12 @@
   "matched": false,
   "notified": false
  },
+ "greenhouse/twilio/8241356": {
+  "first_seen": "2026-10-13T21:50:26.445738724Z",
+  "title": "Twilio: Senior Presales Engineer",
+  "matched": false,
+  "notified": false
+ },
  "greenhouse/twilio/8243069": {
   "first_seen": "2026-10-11T19:54:28.796187742Z",
   "title": "Twilio: Strategic Account Executive",
@@ -78202,6 +78968,12 @@
  "greenhouse/twilio/8245812": {
   "first_seen": "2026-10-11T19:54:28.795734149Z",
   "title": "Twilio: Senior Partner Marketing Manager",
+  "matched": false,
+  "notified": false
+ },
+ "greenhouse/twilio/8247182": {
+  "first_seen": "2026-10-13T21:50:26.445796251Z",
+  "title": "Twilio: Software Engineer (L2) Messaging Channels Team ",
   "matched": false,
   "notified": false
  },
@@ -85579,6 +86351,12 @@
   "matched": false,
   "notified": false
  },
+ "phenom/careers.allianz.com/107865": {
+  "first_seen": "2026-10-13T21:50:28.822011601Z",
+  "title": "Allianz Technology: Scheduling Manager",
+  "matched": false,
+  "notified": false
+ },
  "phenom/careers.allianz.com/107951": {
   "first_seen": "2026-10-12T19:48:12.495295299Z",
   "title": "Allianz Technology: Third Party Risk Management Expert (m/f/d)",
@@ -86833,6 +87611,12 @@
   "matched": false,
   "notified": false
  },
+ "rippling/rippling/6fc734dd-1878-40be-aedb-376562313db6": {
+  "first_seen": "2026-10-13T21:50:26.021655404Z",
+  "title": "Rippling: Account Executive, Enterprise, Global",
+  "matched": false,
+  "notified": false
+ },
  "rippling/rippling/715f115c-e7cc-4d31-adf4-f3c49ba23ef9": {
   "first_seen": "2026-10-12T19:48:04.655318727Z",
   "title": "Rippling: SSB Onboarding Manager - Rippling Spend",
@@ -87628,6 +88412,12 @@
  "rippling/rippling/bccf886c-dd48-469b-a6c1-6715069e58ea": {
   "first_seen": "2026-10-11T19:54:24.616485326Z",
   "title": "Rippling: SMB Implementation Manager",
+  "matched": false,
+  "notified": false
+ },
+ "rippling/rippling/bd9d3cc8-c0c3-470d-ba2b-6d6982c27c43": {
+  "first_seen": "2026-10-13T21:50:26.021603346Z",
+  "title": "Rippling: Account Executive, Broker Channel (Oklahoma)",
   "matched": false,
   "notified": false
  },
@@ -94513,6 +95303,12 @@
   "matched": false,
   "notified": false
  },
+ "smartrecruiters/DeliveryHero/744000155327899": {
+  "first_seen": "2026-10-13T21:50:28.762619005Z",
+  "title": "Glovo (Delivery Hero): Supervisor de turno",
+  "matched": false,
+  "notified": false
+ },
  "smartrecruiters/Freshworks/744000121531857": {
   "first_seen": "2026-10-11T19:56:09.15743892Z",
   "title": "Freshworks: Lead - Solutions Engineer",
@@ -99679,6 +100475,72 @@
   "matched": false,
   "notified": false
  },
+ "smartrecruiters/ServiceNow/744000155323019": {
+  "first_seen": "2026-10-13T21:50:28.525642413Z",
+  "title": "ServiceNow: Sr Sales Enablement Manager",
+  "matched": false,
+  "notified": false
+ },
+ "smartrecruiters/ServiceNow/744000155324170": {
+  "first_seen": "2026-10-13T21:50:28.52564101Z",
+  "title": "ServiceNow: Director, FinOps - Private Cloud Capacity",
+  "matched": false,
+  "notified": false
+ },
+ "smartrecruiters/ServiceNow/744000155330839": {
+  "first_seen": "2026-10-13T21:50:28.525623307Z",
+  "title": "ServiceNow: Senior Staff Software Engineer",
+  "matched": false,
+  "notified": false
+ },
+ "smartrecruiters/ServiceNow/744000155342681": {
+  "first_seen": "2026-10-13T21:50:28.525621133Z",
+  "title": "ServiceNow: Director of Engineering, HR Service Delivery",
+  "matched": false,
+  "notified": false
+ },
+ "smartrecruiters/ServiceNow/744000155345180": {
+  "first_seen": "2026-10-13T21:50:28.525594924Z",
+  "title": "ServiceNow:  AI Product Strategy \u0026 Operations Senior Manager",
+  "matched": false,
+  "notified": false
+ },
+ "smartrecruiters/ServiceNow/744000155345689": {
+  "first_seen": "2026-10-13T21:50:28.525559848Z",
+  "title": "ServiceNow: AI Engineering - Software Engineer Internships - Summer 2027 (Masters)",
+  "matched": false,
+  "notified": false
+ },
+ "smartrecruiters/ServiceNow/744000155345889": {
+  "first_seen": "2026-10-13T21:50:28.52550783Z",
+  "title": "ServiceNow: AI Engineering - Assoc Software Engineer Internships - Summer 2027 (Bachelors)",
+  "matched": false,
+  "notified": false
+ },
+ "smartrecruiters/ServiceNow/744000155352529": {
+  "first_seen": "2026-10-13T21:50:28.077066628Z",
+  "title": "ServiceNow: Implementation Manager - Moveworks",
+  "matched": true,
+  "notified": true
+ },
+ "smartrecruiters/ServiceNow/744000155353317": {
+  "first_seen": "2026-10-13T21:50:27.602575306Z",
+  "title": "ServiceNow: Implementation Manager - Moveworks",
+  "matched": false,
+  "notified": false
+ },
+ "smartrecruiters/ServiceNow/744000155363900": {
+  "first_seen": "2026-10-13T21:50:27.602531774Z",
+  "title": "ServiceNow: Senior Sales Enablement Manager- Moveworks",
+  "matched": false,
+  "notified": false
+ },
+ "smartrecruiters/ServiceNow/744000155364528": {
+  "first_seen": "2026-10-13T21:50:27.60256711Z",
+  "title": "ServiceNow: Software Engineer",
+  "matched": false,
+  "notified": false
+ },
  "successfactors/careers.namirial.com/1331019955": {
   "first_seen": "2026-10-11T22:08:39.354880216Z",
   "title": "Signaturit (Namirial): Open application",
@@ -104191,6 +105053,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/cisco/Cisco_Careers/job/Galway-Ireland/Senior-Software-Engineer---Android-Platform_2027664-1": {
+  "first_seen": "2026-10-13T21:50:27.239447009Z",
+  "title": "Cisco: Senior Software Engineer – Android Platform",
+  "matched": false,
+  "notified": false
+ },
  "workday/cisco/Cisco_Careers/job/Galway-Ireland/Senior-Software-Engineer---App-Development_2023957": {
   "first_seen": "2026-10-11T19:54:43.249744631Z",
   "title": "Cisco: Senior Software Engineer - App Development",
@@ -104224,6 +105092,12 @@
  "workday/cisco/Cisco_Careers/job/Galway-Ireland/Senior-Software-Engineer_2024054": {
   "first_seen": "2026-10-11T19:54:52.590101731Z",
   "title": "Cisco: Senior Software Engineer",
+  "matched": false,
+  "notified": false
+ },
+ "workday/cisco/Cisco_Careers/job/Galway-Ireland/Software-Developer---Quality---Test-Automation_2027657-1": {
+  "first_seen": "2026-10-13T21:50:27.239427422Z",
+  "title": "Cisco: Software Developer – Quality \u0026 Test Automation",
   "matched": false,
   "notified": false
  },
@@ -104317,6 +105191,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/cisco/Cisco_Careers/job/Galway-Ireland/Software-Engineer_2028379": {
+  "first_seen": "2026-10-13T21:50:27.239419547Z",
+  "title": "Cisco: Software Engineer",
+  "matched": false,
+  "notified": false
+ },
  "workday/cisco/Cisco_Careers/job/Galway-Ireland/Software-Engineering-Technical-Leader---Applications_2024020": {
   "first_seen": "2026-10-11T19:54:43.24978157Z",
   "title": "Cisco: Software Engineering Technical Leader - Applications",
@@ -104350,6 +105230,12 @@
  "workday/cisco/Cisco_Careers/job/Garching-Germany/Solutions-Engineer---Public-Sector--m-f-d-_2018544-1": {
   "first_seen": "2026-10-11T19:54:51.233600092Z",
   "title": "Cisco: Solutions Engineer - Public Sector (m/f/d)",
+  "matched": false,
+  "notified": false
+ },
+ "workday/cisco/Cisco_Careers/job/Glendale-California-US/Account-Executive---Portfolio_2020743": {
+  "first_seen": "2026-10-13T21:50:27.239367079Z",
+  "title": "Cisco: Account Executive - Portfolio",
   "matched": false,
   "notified": false
  },
@@ -104812,6 +105698,12 @@
  "workday/cisco/Cisco_Careers/job/Irvine-California-US/Site-Reliability-Engineering-Technical-Leader_2022910-1": {
   "first_seen": "2026-10-11T19:54:54.118698862Z",
   "title": "Cisco: Senior Staff Site Reliability Engineer",
+  "matched": false,
+  "notified": false
+ },
+ "workday/cisco/Cisco_Careers/job/Iselin-New-Jersey-US/Account-Executive--Portfolio---GES---NJ-NYC-PA_2027663": {
+  "first_seen": "2026-10-13T21:50:27.23956498Z",
+  "title": "Cisco: Account Executive, Portfolio - GES - NJ/NYC/PA",
   "matched": false,
   "notified": false
  },
@@ -106045,6 +106937,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/cisco/Cisco_Careers/job/Milpitas-California-US/ASIC-Board-Design-Engineer---System-Lead--PCB-Layout--Signal-Integrity--and-System-Architecture--Onsite-_2026355": {
+  "first_seen": "2026-10-13T21:50:27.239515838Z",
+  "title": "Cisco: ASIC Board Design Engineer – System Lead, PCB Layout, Signal Integrity, and System Architecture (Onsite)",
+  "matched": false,
+  "notified": false
+ },
  "workday/cisco/Cisco_Careers/job/Milpitas-California-US/Cloud-Engineer_2019819": {
   "first_seen": "2026-10-11T19:54:45.944692094Z",
   "title": "Cisco: Senior Cloud Engineer",
@@ -107011,6 +107909,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/cisco/Cisco_Careers/job/New-York-New-York-US/Account-Executive---Portfolio_2025552": {
+  "first_seen": "2026-10-13T21:50:27.239504186Z",
+  "title": "Cisco: Account Executive - Portfolio",
+  "matched": false,
+  "notified": false
+ },
  "workday/cisco/Cisco_Careers/job/New-York-New-York-US/Enterprise-Solutions-Engineer_2024812": {
   "first_seen": "2026-10-12T19:48:06.987374809Z",
   "title": "Cisco: Enterprise Solutions Engineer",
@@ -107257,6 +108161,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/cisco/Cisco_Careers/job/Prague-Czech-Republic/Associate-Sales-Representative---CSAP---Switzerland--Market-_2018802": {
+  "first_seen": "2026-10-13T21:50:27.239627006Z",
+  "title": "Cisco: Associate Sales Representative - CSAP - Switzerland (Market)",
+  "matched": false,
+  "notified": false
+ },
  "workday/cisco/Cisco_Careers/job/Prague-Czech-Republic/Deal-Operations-Analyst_2023510": {
   "first_seen": "2026-10-11T19:54:52.589735093Z",
   "title": "Cisco: Deal Operations Analyst",
@@ -107374,6 +108284,12 @@
  "workday/cisco/Cisco_Careers/job/RTP-North-Carolina-US/Account-Executive---Splunk--Mid-Atlantic-Region-_2026886-1": {
   "first_seen": "2026-10-11T19:54:46.472125862Z",
   "title": "Cisco: Account Executive - Splunk (Mid-Atlantic Region)",
+  "matched": false,
+  "notified": false
+ },
+ "workday/cisco/Cisco_Careers/job/RTP-North-Carolina-US/Business-System-Analyst_2022706-1": {
+  "first_seen": "2026-10-13T21:50:27.239378981Z",
+  "title": "Cisco: Business System Analyst",
   "matched": false,
   "notified": false
  },
@@ -107601,6 +108517,12 @@
  },
  "workday/cisco/Cisco_Careers/job/RTP-North-Carolina-US/QA-Software-Engineer-NC-Hybrid_2021019": {
   "first_seen": "2026-10-11T19:54:51.234267592Z",
+  "title": "Cisco: QA Software Engineer NC Hybrid",
+  "matched": false,
+  "notified": false
+ },
+ "workday/cisco/Cisco_Careers/job/RTP-North-Carolina-US/QA-Software-Engineer-NC-Hybrid_2023070": {
+  "first_seen": "2026-10-13T21:50:27.239486743Z",
   "title": "Cisco: QA Software Engineer NC Hybrid",
   "matched": false,
   "notified": false
@@ -108031,6 +108953,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/cisco/Cisco_Careers/job/San-Francisco-California-US/Executive-Assistant--VP--Product-Management_2021884": {
+  "first_seen": "2026-10-13T21:50:27.239390182Z",
+  "title": "Cisco: Executive Assistant, VP, Product Management",
+  "matched": false,
+  "notified": false
+ },
  "workday/cisco/Cisco_Careers/job/San-Francisco-California-US/Head-of-Public-Relations--AI-Software---Platform_2027499-1": {
   "first_seen": "2026-10-11T19:54:44.989704482Z",
   "title": "Cisco: Head of Public Relations, AI Software \u0026 Platform",
@@ -108178,6 +109106,12 @@
  "workday/cisco/Cisco_Careers/job/San-Jose-California-US/ASIC-DFT-CAD-Technical-Leader_2012616": {
   "first_seen": "2026-10-11T19:54:43.249901526Z",
   "title": "Cisco: ASIC Technical Leader- CAD",
+  "matched": false,
+  "notified": false
+ },
+ "workday/cisco/Cisco_Careers/job/San-Jose-California-US/ASIC-DFT-DV-Technical-Leader--Hybrid-_2027718": {
+  "first_seen": "2026-10-13T21:50:27.239135334Z",
+  "title": "Cisco: ASIC DFT DV Technical Leader (Hybrid)",
   "matched": false,
   "notified": false
  },
@@ -108433,6 +109367,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/cisco/Cisco_Careers/job/San-Jose-California-US/Director--Enterprise-Data--Analytics---AI_2024011-1": {
+  "first_seen": "2026-10-13T21:50:27.239563277Z",
+  "title": "Cisco: Director, Enterprise Data, Analytics \u0026 AI",
+  "matched": false,
+  "notified": false
+ },
  "workday/cisco/Cisco_Careers/job/San-Jose-California-US/Director--Global-ASIC-Capacity-Planning-and-Strategy_2021916": {
   "first_seen": "2026-10-11T19:54:52.355329542Z",
   "title": "Cisco: Director, Global ASIC Capacity Planning and Strategy",
@@ -108484,6 +109424,12 @@
  "workday/cisco/Cisco_Careers/job/San-Jose-California-US/Distinguished-Machine-Learning-Engineer--AISWP---Hybrid-_2021423": {
   "first_seen": "2026-10-11T19:54:43.248810843Z",
   "title": "Cisco: Distinguished Machine Learning Engineer, AISWP  (Hybrid)",
+  "matched": false,
+  "notified": false
+ },
+ "workday/cisco/Cisco_Careers/job/San-Jose-California-US/Efficiency-AI-Ops-Engineer-Hybrid_2025143": {
+  "first_seen": "2026-10-13T21:50:27.239349596Z",
+  "title": "Cisco: Efficiency AI Ops Engineer Hybrid",
   "matched": false,
   "notified": false
  },
@@ -108949,6 +109895,18 @@
   "matched": false,
   "notified": false
  },
+ "workday/cisco/Cisco_Careers/job/San-Jose-California-US/Senior-ASIC-DFT-DV-Engineer--Hybrid-_2027721": {
+  "first_seen": "2026-10-13T21:50:27.239232076Z",
+  "title": "Cisco: Senior ASIC DFT DV Engineer (Hybrid)",
+  "matched": false,
+  "notified": false
+ },
+ "workday/cisco/Cisco_Careers/job/San-Jose-California-US/Senior-ASIC-DFT-DV-Engineer--Hybrid-_2027869": {
+  "first_seen": "2026-10-13T21:50:27.239196439Z",
+  "title": "Cisco: Senior ASIC DFT DV Engineer (Hybrid)",
+  "matched": false,
+  "notified": false
+ },
  "workday/cisco/Cisco_Careers/job/San-Jose-California-US/Senior-ASIC-Design-Engineer_2021110": {
   "first_seen": "2026-10-11T19:54:54.890937709Z",
   "title": "Cisco: Senior ASIC Design Engineer",
@@ -109201,6 +110159,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/cisco/Cisco_Careers/job/San-Jose-California-US/Sr-Hardware-Engineer_2024292": {
+  "first_seen": "2026-10-13T21:50:27.239269305Z",
+  "title": "Cisco: Sr Hardware Engineer",
+  "matched": false,
+  "notified": false
+ },
  "workday/cisco/Cisco_Careers/job/San-Jose-California-US/Sr-Leader---Buying-Program-Strategy---Design-Hybrid_2019107": {
   "first_seen": "2026-10-11T19:54:46.224557785Z",
   "title": "Cisco: Sr Leader - Buying Program Strategy \u0026 Design Hybrid",
@@ -109366,6 +110330,12 @@
  "workday/cisco/Cisco_Careers/job/Sao-Paulo-Brazil/Solutions-Engineer_2028001": {
   "first_seen": "2026-10-11T19:54:44.021099131Z",
   "title": "Cisco: Solutions Engineer",
+  "matched": false,
+  "notified": false
+ },
+ "workday/cisco/Cisco_Careers/job/Seattle-Washington-US/Account-Executive---Architecture_2019383": {
+  "first_seen": "2026-10-13T21:50:27.239589446Z",
+  "title": "Cisco: Account Executive - Architecture",
   "matched": false,
   "notified": false
  },
@@ -110065,6 +111035,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/cisco/Cisco_Careers/job/Topeka-Kansas-US/Account-Executive---Splunk-Commercial--Remote--Kansas-_2020065": {
+  "first_seen": "2026-10-13T21:50:27.239396945Z",
+  "title": "Cisco: Account Executive - Splunk Commercial (Remote, Kansas)",
+  "matched": false,
+  "notified": false
+ },
  "workday/cisco/Cisco_Careers/job/Toronto-Ontario-Canada/Principal-Corporate-Counsel_2026856": {
   "first_seen": "2026-10-11T19:54:46.224706864Z",
   "title": "Cisco: Principal Corporate Counsel",
@@ -110164,6 +111140,12 @@
  "workday/cisco/Cisco_Careers/job/Warsaw-Poland/Splunk-Solutions-Engineer---Poland_2026504": {
   "first_seen": "2026-10-11T19:54:43.791727105Z",
   "title": "Cisco: Splunk Solutions Engineer - Poland",
+  "matched": false,
+  "notified": false
+ },
+ "workday/cisco/Cisco_Careers/job/Washington-District-of-Columbia-US/Account-Executive---Networking-Architecture--US-Federal-Civilian-_2027501": {
+  "first_seen": "2026-10-13T21:50:27.239601278Z",
+  "title": "Cisco: Account Executive - Networking Architecture (US Federal Civilian)",
   "matched": false,
   "notified": false
  },
@@ -110764,6 +111746,12 @@
  "workday/crowdstrike/crowdstrikecareers/job/Australia---Sydney/Sr-Engineer---Falcon-NG-SIEM--Serverless-Cell-Platform_R29475": {
   "first_seen": "2026-10-11T19:51:13.970469183Z",
   "title": "CrowdStrike: Engineer III, DevOps, NG-SIEM (Remote, AUS)",
+  "matched": false,
+  "notified": false
+ },
+ "workday/crowdstrike/crowdstrikecareers/job/Canada---Remote-AB/Analyst-I--Falcon-Complete--Remote--PST-MST-_R29923": {
+  "first_seen": "2026-10-13T21:50:25.218806704Z",
+  "title": "CrowdStrike: Analyst I, Falcon Complete (Remote, CAN)",
   "matched": false,
   "notified": false
  },
@@ -112069,6 +113057,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/crowdstrike/crowdstrikecareers/job/USA---Remote/Associate-Analyst--Falcon-Complete_R30082": {
+  "first_seen": "2026-10-13T21:50:25.218767721Z",
+  "title": "CrowdStrike: Analyst I, Falcon Complete (Remote, PST/MST)",
+  "matched": false,
+  "notified": false
+ },
  "workday/crowdstrike/crowdstrikecareers/job/USA---Remote/CrowdStrike-Platform-Associate-Resident-Consultant--Remote-_R30195": {
   "first_seen": "2026-10-11T19:51:14.210621846Z",
   "title": "CrowdStrike: CrowdStrike Platform Associate Resident Consultant (Remote)",
@@ -112333,6 +113327,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/crowdstrike/crowdstrikecareers/job/USA---Remote/Sr-Director--Partner-GTM-Strategy-and-Programs_R28180": {
+  "first_seen": "2026-10-13T21:50:25.218828134Z",
+  "title": "CrowdStrike: Director, Partner GTM Programs",
+  "matched": false,
+  "notified": false
+ },
  "workday/crowdstrike/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Platform-Data-Engineer--Remote-_R30175": {
   "first_seen": "2026-10-11T19:51:14.451526927Z",
   "title": "CrowdStrike: Sr. Engineer - Platform Data Engineer (Remote)",
@@ -112474,6 +113474,12 @@
  "workday/crowdstrike/crowdstrikecareers/job/USA---Sunnyvale-CA/Design-Coordinator_R29256": {
   "first_seen": "2026-10-11T19:51:15.802160658Z",
   "title": "CrowdStrike: Design Coordinator",
+  "matched": false,
+  "notified": false
+ },
+ "workday/crowdstrike/crowdstrikecareers/job/USA---Sunnyvale-CA/Director--Revenue-Technical-Accounting_R30412": {
+  "first_seen": "2026-10-13T21:50:25.218764274Z",
+  "title": "CrowdStrike: Director, Revenue Technical Accounting",
   "matched": false,
   "notified": false
  },
@@ -112690,6 +113696,12 @@
  "workday/crowdstrike/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Product-Manager--Next-Gen-SIEM--Hybrid-_R29315": {
   "first_seen": "2026-10-11T19:51:15.802301742Z",
   "title": "CrowdStrike: Sr. Product Manager, Next-Gen SIEM (Hybrid)",
+  "matched": false,
+  "notified": false
+ },
+ "workday/crowdstrike/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Product-Manager--Red-Teaming-AI---AIDR--HYBRID-_R30115": {
+  "first_seen": "2026-10-13T21:50:25.21868182Z",
+  "title": "CrowdStrike: Sr. Product Manager, Red Teaming AI – AIDR (HYBRID)",
   "matched": false,
   "notified": false
  },
@@ -113476,6 +114488,12 @@
  "workday/hp/ExternalCareerSite/job/All-Cities-California-United-States-of-America/Workstations-Sales-Specialist---State--Local---Education_3166842-1": {
   "first_seen": "2026-10-11T19:54:34.109082839Z",
   "title": "HP: Workstations Sales Specialist - State, Local \u0026 Education",
+  "matched": false,
+  "notified": false
+ },
+ "workday/hp/ExternalCareerSite/job/All-Cities-District-of-Columbia-United-States-of-America/Federal-Account-Manager_3168200-2": {
+  "first_seen": "2026-10-13T21:50:26.9284092Z",
+  "title": "HP: Federal Account Manager",
   "matched": false,
   "notified": false
  },
@@ -115828,6 +116846,12 @@
  "workday/hp/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/Director--Corporate-Development_3166190": {
   "first_seen": "2026-10-11T19:54:42.111829193Z",
   "title": "HP: Director, Corporate Development",
+  "matched": false,
+  "notified": false
+ },
+ "workday/hp/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/Director--Go-To-Market--GTM--Strategy_3169808-2": {
+  "first_seen": "2026-10-13T21:50:27.176385753Z",
+  "title": "HP: Director, Go-To-Market (GTM) Strategy",
   "matched": false,
   "notified": false
  },
@@ -119077,6 +120101,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/paloaltonetworks/panwexternalcareers/job/Atlanta-United-States-of-America/Channel-Business-Manager_JR-023452": {
+  "first_seen": "2026-10-13T21:50:25.279392975Z",
+  "title": "Palo Alto Networks: Channel Business Manager",
+  "matched": false,
+  "notified": false
+ },
  "workday/paloaltonetworks/panwexternalcareers/job/Atlanta-United-States-of-America/Cortex---Cloud-Sales-Specialist---SLED_JR-022655": {
   "first_seen": "2026-10-11T19:51:38.572031971Z",
   "title": "Palo Alto Networks: Cortex \u0026 Cloud Sales Specialist - SLED",
@@ -119242,6 +120272,12 @@
  "workday/paloaltonetworks/panwexternalcareers/job/Boston-United-States-of-America/Cortex-Domain-Consultant_JR-023281": {
   "first_seen": "2026-10-12T19:48:02.769973969Z",
   "title": "Palo Alto Networks: Cortex Domain Consultant",
+  "matched": false,
+  "notified": false
+ },
+ "workday/paloaltonetworks/panwexternalcareers/job/Boston-United-States-of-America/DevOps-Engineer_JR-018134": {
+  "first_seen": "2026-10-13T21:50:25.27933721Z",
+  "title": "Palo Alto Networks: Senior Staff DevOps Engineer, Remote",
   "matched": false,
   "notified": false
  },
@@ -128965,6 +130001,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/proofpoint/ProofpointCareers/job/Washington/Named-Account-Manager-SLED-OR_R14881": {
+  "first_seen": "2026-10-13T21:50:25.467406445Z",
+  "title": "Proofpoint: Named Account Manager-SLED-OR/WA",
+  "matched": false,
+  "notified": false
+ },
  "workday/proofpoint/ProofpointCareers/job/Washington/Senior-Sales-Engineer---Data-Security_R14822": {
   "first_seen": "2026-10-12T19:48:03.806959707Z",
   "title": "Proofpoint: Senior Sales Engineer - Data Security",
@@ -129907,6 +130949,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/salesforce/External_Career_Site/job/California---Remote/Qualified-SMB-Account-Executive_JR354059": {
+  "first_seen": "2026-10-13T21:50:27.306427975Z",
+  "title": "Salesforce: Qualified SMB Account Executive",
+  "matched": false,
+  "notified": false
+ },
  "workday/salesforce/External_Career_Site/job/California---Remote/Qualified-Solution-Engineer_JR343815": {
   "first_seen": "2026-10-11T19:55:31.042707568Z",
   "title": "Salesforce: Qualified Solution Engineer",
@@ -130423,6 +131471,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/salesforce/External_Career_Site/job/California---San-Francisco/Product-Management-Director--Platform-Services_JR360791": {
+  "first_seen": "2026-10-13T21:50:27.306367682Z",
+  "title": "Salesforce: Product Management Director, Platform Services",
+  "matched": false,
+  "notified": false
+ },
  "workday/salesforce/External_Career_Site/job/California---San-Francisco/Product-Management-Director_JR358007": {
   "first_seen": "2026-10-11T19:54:59.30841398Z",
   "title": "Salesforce: Director of Product Management, Developer Experience",
@@ -130468,6 +131522,12 @@
  "workday/salesforce/External_Career_Site/job/California---San-Francisco/Recruiter--Futureforce-AMER--Contract-_JR362175": {
   "first_seen": "2026-10-11T19:55:15.809880616Z",
   "title": "Salesforce: Recruiter, Futureforce AMER (Contract)",
+  "matched": false,
+  "notified": false
+ },
+ "workday/salesforce/External_Career_Site/job/California---San-Francisco/Recruiting-Coordinator_JR363046-1": {
+  "first_seen": "2026-10-13T21:50:27.306519937Z",
+  "title": "Salesforce: Recruiting Coordinator",
   "matched": false,
   "notified": false
  },
@@ -130767,6 +131827,12 @@
  },
  "workday/salesforce/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR362907": {
   "first_seen": "2026-10-11T19:55:00.365922195Z",
+  "title": "Salesforce: Software Engineering PMTS",
+  "matched": false,
+  "notified": false
+ },
+ "workday/salesforce/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR363144": {
+  "first_seen": "2026-10-13T21:50:27.306480293Z",
   "title": "Salesforce: Software Engineering PMTS",
   "matched": false,
   "notified": false
@@ -131233,6 +132299,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/salesforce/External_Career_Site/job/Canada---Vancouver/Account-Partner---Financial-Services_JR364110": {
+  "first_seen": "2026-10-13T21:50:27.306395254Z",
+  "title": "Salesforce: Account Partner - Financial Services",
+  "matched": false,
+  "notified": false
+ },
  "workday/salesforce/External_Career_Site/job/Canada---Vancouver/Small--Medium--and-Growth-Business---Account-Executive---Vancouver--Office-Based-_JR274505": {
   "first_seen": "2026-10-11T19:55:09.334104599Z",
   "title": "Salesforce: Small, Medium, and Growth Business - Account Executive - Vancouver (Office-Based)",
@@ -131668,6 +132740,12 @@
  "workday/salesforce/External_Career_Site/job/France---Paris/Forward-Deployed-Engineer_JR363024": {
   "first_seen": "2026-10-11T19:55:02.106181397Z",
   "title": "Salesforce: Forward Deployed Engineer",
+  "matched": false,
+  "notified": false
+ },
+ "workday/salesforce/External_Career_Site/job/France---Paris/Global-Account-Manager---Communications---Media---France_JR338819-1": {
+  "first_seen": "2026-10-13T21:50:27.483342024Z",
+  "title": "Salesforce: Account Director – Communications \u0026 Media - France",
   "matched": false,
   "notified": false
  },
@@ -132496,6 +133574,12 @@
  "workday/salesforce/External_Career_Site/job/Illinois---Chicago/Financial-Services-Program-Executive-VP_JR354750": {
   "first_seen": "2026-10-11T19:55:26.369403382Z",
   "title": "Salesforce: Financial Services Program Executive VP",
+  "matched": false,
+  "notified": false
+ },
+ "workday/salesforce/External_Career_Site/job/Illinois---Chicago/Keynote-Production-Associate-Manager_JR363084": {
+  "first_seen": "2026-10-13T21:50:27.306300997Z",
+  "title": "Salesforce: Keynote Production Associate Manager",
   "matched": false,
   "notified": false
  },
@@ -135691,6 +136775,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/salesforce/External_Career_Site/job/Mexico---Mexico-City/Manager--Sales--Internal-Only-_JR362993-1": {
+  "first_seen": "2026-10-13T21:50:27.306530757Z",
+  "title": "Salesforce: Manager, Sales (Internal Only)",
+  "matched": false,
+  "notified": false
+ },
  "workday/salesforce/External_Career_Site/job/Mexico---Mexico-City/Marketing-Cloud---Technical-Architect_JR362165": {
   "first_seen": "2026-10-11T19:55:16.04855332Z",
   "title": "Salesforce: Marketing Cloud - Technical Architect",
@@ -135766,6 +136856,12 @@
  "workday/salesforce/External_Career_Site/job/Mexico---Mexico-City/Program---Content-Operations-Analyst_JR361481": {
   "first_seen": "2026-10-11T19:55:09.080099833Z",
   "title": "Salesforce: Program \u0026 Content Operations Analyst",
+  "matched": false,
+  "notified": false
+ },
+ "workday/salesforce/External_Career_Site/job/Mexico---Mexico-City/Regional-Sales-Director_JR363256-1": {
+  "first_seen": "2026-10-13T21:50:27.30651057Z",
+  "title": "Salesforce: Regional Sales Director",
   "matched": false,
   "notified": false
  },
@@ -137353,6 +138449,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/salesforce/External_Career_Site/job/United-Arab-Emirates---Dubai/Lead-Forward-Deployed-Engineer_JR348990": {
+  "first_seen": "2026-10-13T21:50:27.306600358Z",
+  "title": "Salesforce: Lead Forward Deployed Engineer",
+  "matched": false,
+  "notified": false
+ },
  "workday/salesforce/External_Career_Site/job/United-Arab-Emirates---Dubai/Principal--Distinguished-Deployment-Strategist_JR348989": {
   "first_seen": "2026-10-13T17:08:41.01692971Z",
   "title": "Salesforce: Principal/ Distinguished Deployment Strategist",
@@ -138391,6 +139493,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/salesforce/External_Career_Site/job/Washington---Bellevue/Member-of-Technical-Staff--MTS---Software-Engineer--Identity---Access-Management_JR360867": {
+  "first_seen": "2026-10-13T21:50:27.306550184Z",
+  "title": "Salesforce: Member of Technical Staff (MTS), Software Engineer, Identity \u0026 Access Management",
+  "matched": false,
+  "notified": false
+ },
  "workday/salesforce/External_Career_Site/job/Washington---Bellevue/Product-Security-Engineer--Senior_JR358976": {
   "first_seen": "2026-10-11T19:55:16.048776651Z",
   "title": "Salesforce: Product Security Engineer, Senior",
@@ -138529,6 +139637,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/salesforce/External_Career_Site/job/Washington---Bellevue/Sr-GRC-Analyst--Common-Control-Framework_JR362095": {
+  "first_seen": "2026-10-13T21:50:27.306229282Z",
+  "title": "Salesforce: Sr. GRC Analyst, Common Control Framework",
+  "matched": false,
+  "notified": false
+ },
  "workday/salesforce/External_Career_Site/job/Washington---Bellevue/Sr-Product-Manager--Enterprise-Security-Technology_JR359178-1": {
   "first_seen": "2026-10-11T19:54:59.308415104Z",
   "title": "Salesforce: Senior Product Manager, Enterprise Security Technology",
@@ -138538,6 +139652,12 @@
  "workday/salesforce/External_Career_Site/job/Washington---Remote/Partner---Agentforce-Contact-Center--Solution-Consulting-Director_JR354950": {
   "first_seen": "2026-10-11T19:54:59.308127893Z",
   "title": "Salesforce: Partner \u0026 Agentforce Contact Center, Solution Consulting Director",
+  "matched": false,
+  "notified": false
+ },
+ "workday/salesforce/External_Career_Site/job/Washington---Remote/Qualified-Success-Architect--Internal-Enablement_JR362329": {
+  "first_seen": "2026-10-13T21:50:27.306455196Z",
+  "title": "Salesforce: Qualified Success Architect, Internal Enablement",
   "matched": false,
   "notified": false
  },
@@ -138562,6 +139682,12 @@
  "workday/salesforce/External_Career_Site/job/Washington---Seattle/Corp-Counsel_JR359504": {
   "first_seen": "2026-10-11T19:55:23.345933605Z",
   "title": "Salesforce: Sustainability Corporate Counsel",
+  "matched": false,
+  "notified": false
+ },
+ "workday/salesforce/External_Career_Site/job/Washington---Seattle/Customer-Marketing-Senior-Analyst_JR363080-1": {
+  "first_seen": "2026-10-13T21:50:27.306333167Z",
+  "title": "Salesforce: Customer Marketing Senior Analyst",
   "matched": false,
   "notified": false
  },
@@ -139192,6 +140318,12 @@
  "workday/workday/Workday/job/Canada-BC-Vancouver/Sr-Product-Manager---Evisort-AI_JR-0110283": {
   "first_seen": "2026-10-11T19:56:03.43079831Z",
   "title": "Workday: Sr Product Manager - Evisort AI",
+  "matched": false,
+  "notified": false
+ },
+ "workday/workday/Workday/job/Canada-BC-Victoria/Sr-Principal--Product-Manager_JR-IC-000061-1": {
+  "first_seen": "2026-10-13T21:50:28.583942432Z",
+  "title": "Workday: Sr Principal, Product Manager",
   "matched": false,
   "notified": false
  },
@@ -140443,6 +141575,12 @@
   "matched": false,
   "notified": false
  },
+ "workday/workday/Workday/job/USA-CA-Pleasanton/Sr-Manager--AI-Engineering_JR-0110688": {
+  "first_seen": "2026-10-13T21:50:28.583977608Z",
+  "title": "Workday: Sr Manager, AI Engineering",
+  "matched": false,
+  "notified": false
+ },
  "workday/workday/Workday/job/USA-CA-Pleasanton/Sr-Principal-Architect---Observability_JR-0110234": {
   "first_seen": "2026-10-11T19:56:03.430754295Z",
   "title": "Workday: Sr. Principal Architect - Observability",
@@ -140506,6 +141644,12 @@
  "workday/workday/Workday/job/USA-CA-Remote/Solution-Consultant---FIN--Tech---Media_JR-0110036": {
   "first_seen": "2026-10-11T19:56:01.819145518Z",
   "title": "Workday: Solution Consultant - FIN- Tech \u0026 Media",
+  "matched": false,
+  "notified": false
+ },
+ "workday/workday/Workday/job/USA-CA-San-Francisco/Principal--Product-Manager_JR-IC-000069-1": {
+  "first_seen": "2026-10-13T21:50:28.58401623Z",
+  "title": "Workday: Principal, Product Manager",
   "matched": false,
   "notified": false
  },
@@ -140596,6 +141740,12 @@
  "workday/workday/Workday/job/USA-GA-Atlanta/Customer-Success-Manager_JR-0110540": {
   "first_seen": "2026-10-11T19:55:59.806718804Z",
   "title": "Workday: Customer Success Manager",
+  "matched": false,
+  "notified": false
+ },
+ "workday/workday/Workday/job/USA-GA-Atlanta/Deal-Ops-Manager_JR-0110697": {
+  "first_seen": "2026-10-13T21:50:28.58399468Z",
+  "title": "Workday: Sr. Associate Deal Ops Manager, Renewals",
   "matched": false,
   "notified": false
  },
@@ -141028,6 +142178,12 @@
  "workday/workday/Workday/job/USAVAReston/Principal-Program-Manager_JR-0108632": {
   "first_seen": "2026-10-11T19:55:59.499246865Z",
   "title": "Workday: Third-Party Security Risk Management (TPRM) Lead",
+  "matched": false,
+  "notified": false
+ },
+ "workday/workday/Workday/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---Data-Platform---Lakehouse-SME_JR-0107830": {
+  "first_seen": "2026-10-13T21:50:28.584028473Z",
+  "title": "Workday: Senior Cybersecurity Data Engineer - Data Platform \u0026 Lakehouse SME",
   "matched": false,
   "notified": false
  },
@@ -142138,6 +143294,12 @@
  "workday/zendesk/zendesk/job/San-Francisco-California-United-States-of-America/Vice-President--Global-Customer-Experience---AI-Powered-Support_R35519": {
   "first_seen": "2026-10-11T19:55:41.880265823Z",
   "title": "Zendesk: Vice President, Global AI-Powered Support",
+  "matched": false,
+  "notified": false
+ },
+ "workday/zendesk/zendesk/job/San-Francisco/ABX---Industry-Marketing-Manager_R35663": {
+  "first_seen": "2026-10-13T21:50:27.543760302Z",
+  "title": "Zendesk: ABX \u0026 Industry Marketing Manager",
   "matched": false,
   "notified": false
  },
