@@ -216,7 +216,7 @@ companies:
   - {name: "Feedzai", source: greenhouse, params: {board_token: "feedzai"}}  # via slug-guess
   # Clarity AI: Greenhouse board gone (404, 2026-10-08); careers page embeds an EU board that also 404s -- see companies.missing.csv
   - {name: "Capchase", source: ashby, params: {board_name: "capchase"}}  # via careers-page
-  - {name: "Remote.com", source: greenhouse, params: {board_token: "descript"}}  # via careers-page
+  # Remote.com: job board not found yet (an earlier entry pointed to Descript by mistake)
   - {name: "Oyster HR", source: ashby, params: {board_name: "oyster"}}  # via careers-page
   - {name: "Rippling", source: rippling, params: {board_slug: rippling}}  # via upstream
   - {name: "SumUp", source: greenhouse, params: {board_token: "sumup"}}  # via slug-guess
