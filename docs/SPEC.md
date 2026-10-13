@@ -99,3 +99,85 @@ Coverage grows by adding more companies to the Google Sheet instead.
 - No issue comments (so no notification emails). The card shows "Analyzing..." and then a
   **Proposals** panel, polling the results file every 30 s while open.
 - Deeper edits: "CV edits for jobscout-cv issue #N" to Claude in a session (unchanged).
+
+---
+
+# v5 (2026-10-13): Shareable JobScout (template for non-technical users)
+
+## Decisions (from the user)
+- Target user: **non-technical** - only GitHub's website, no terminal, no Python/Go.
+- Setup: **template + own copy**. `JobScout` becomes a clean template with example
+  settings; each user (including Andrea) runs their own copy.
+- Companies: **CSV file in the repo** (`companies.csv`), editable on GitHub's website.
+- License: jobwatch has no license; **parked for now** (README states personal use).
+
+## Status of coverage (2026-10-13)
+166 companies in Andrea's sheet: 154 scanned (152 boards incl. parents), 12 not:
+Revolut (blocked from GitHub by a bot check), Sesame (unsolved), and 10 with no
+public listing right now (see jobscout/companies.missing.csv).
+
+## Review: what blocks another user today
+1. `jobscout.yaml` mixes personal choices with matcher internals; the title list is
+   written twice (prefilter + rule) and the country list twice; a missing comma once
+   broke matching silently.
+2. Personal values hard-coded: repo/page URLs (workflow, page, CV add-on),
+   Barcelona/Remote/Spain tiers and core roles in build_page.py.
+3. Adding companies needs Python locally (discover_ats.py) and copy-paste.
+4. Docs spread over JOBSCOUT.md, SPEC.md and upstream's README.
+
+## Target design
+### Two files a user edits (on GitHub's website)
+`profile.yaml` - plain, commented:
+```yaml
+page_title: "My job board"
+roles:
+  core: [technical account manager, customer success manager, forward deployed engineer]
+  also: [account manager, implementation manager, onboarding specialist]
+  exclude: [intern, director, vp, solutions engineer]
+languages: [english, spanish, italian]      # titles asking for other languages are dropped
+locations:                                  # in order of preference
+  - Barcelona
+  - remote                                  # remote roles open to your region
+  - Spain
+remote_region: europe                       # which "remote" counts: europe | worldwide | any
+max_age_days: 30
+```
+`companies.csv` - `company,website` (+ optional `board` to force a job board).
+
+### What the template does automatically
+- `scripts/build_config.py`: profile.yaml + boards.yaml -> generated jobwatch config
+  (prefilter, title rule, language excludes, location rules incl. the built-in list of
+  non-target countries/cities) and page settings (tiers, core roles, title). Never edited by hand.
+- Workflow **"Find job boards"**: runs when companies.csv changes; detects each company's
+  board (discover_ats.py) into `boards.yaml`; lists companies it could not match in the
+  run summary.
+- Workflow **"Update JobScout"** (manual button): pulls engine updates from the template
+  without touching profile.yaml / companies.csv / boards.yaml.
+- All repo/page URLs come from GitHub's own variables (owner, repo name), nothing hard-coded.
+- CV insights stay an **optional add-on** (separate README section; needs a private repo + key).
+
+### README quick start (target: 10 minutes, browser only)
+1. "Use this template" -> create your repo (public, for the free page).
+2. Edit `profile.yaml`.
+3. Edit `companies.csv`.
+4. Settings -> Pages -> deploy from `gh-pages`; Actions -> enable.
+5. Actions -> "Find job boards" -> "Start scan". Your page: https://<you>.github.io/<repo>/
+
+## Phases
+1. **Settings refactor (no visible change for Andrea):** profile.yaml + companies.csv +
+   build_config.py + boards.yaml; generated config must give the same matches as today
+   (compare dry-runs). Remove hard-coded URLs.
+2. **Automation:** "Find job boards" and "Update JobScout" workflows; run summary of
+   unmatched companies.
+3. **Split:** JobScout -> clean template (example profile/companies, marked as template);
+   Andrea's copy `jobscout-andrea` with his settings, state and page (new page URL;
+   CV add-on pointed at it).
+4. **Docs:** README quick start + troubleshooting + CV add-on guide; test the quick start
+   end-to-end as a new user (fresh copy).
+
+## Open questions / risks
+- Template copies don't auto-update -> "Update JobScout" workflow; conflicts only if a
+  user edits engine files.
+- Free GitHub Pages needs a public repo: a user's companies/roles are visible to anyone
+  with the link (state this in the README).
+- jobwatch license unresolved (parked).
